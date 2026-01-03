@@ -1,0 +1,2501 @@
+restaurant_id,restaurant_name,category,city,rating
+1,Restaurant_1,Fast Food,Mumbai,4.4
+2,Restaurant_2,Cafe,Hyderabad,2.7
+3,Restaurant_3,Fast Food,Hyderabad,4.8
+4,Restaurant_4,Fast Food,Jaipur,
+5,Restaurant_5,North Indian,Kolkata,4.6
+6,Restaurant_6,South Indian,Pune,3.7
+7,Restaurant_7,Cafe,Pune,2.6
+8,Restaurant_8,Bakery,Bengaluru,4.1
+9,Restaurant_9,Bakery,Mumbai,3.4
+10,Restaurant_10,Cafe,Chennai,4.9
+11,Restaurant_11,Biryani,Mumbai,
+12,Restaurant_12,South Indian,Pune,2.9
+13,Restaurant_13,Bakery,Jaipur,4.5
+14,Restaurant_14,North Indian,Jaipur,4.0
+15,Restaurant_15,North Indian,Pune,3.1
+16,Restaurant_16,Bakery,Kolkata,4.4
+17,Restaurant_17,Fast Food,Delhi,2.9
+18,Restaurant_18,Biryani,Mumbai,3.4
+19,Restaurant_19,Biryani,Ahmedabad,3.6
+20,Restaurant_20,North Indian,Delhi,
+21,Restaurant_21,Bakery,Bengaluru,3.4
+22,Restaurant_22,North Indian,Kolkata,4.6
+23,Restaurant_23,Cafe,Pune,4.9
+24,Restaurant_24,Fast Food,Chennai,3.5
+25,Restaurant_25,Cafe,Delhi,3.2
+26,Restaurant_26,Biryani,Mumbai,
+27,Restaurant_27,Fast Food,Hyderabad,4.6
+28,Restaurant_28,Biryani,Hyderabad,2.9
+29,Restaurant_29,Fast Food,Mumbai,2.8
+30,Restaurant_30,FAST FOOD,Bengaluru,3.9
+31,Restaurant_31,Biryani,Hyderabad,
+32,Restaurant_32,North Indian,Jaipur,3.0
+33,Restaurant_33,Biryani,Kolkata,3.8
+34,Restaurant_34,Chinese,Kolkata,2.8
+35,Restaurant_35,Chinese,Delhi,2.9
+36,Restaurant_36,North Indian,Mumbai,2.7
+37,Restaurant_37,CAFE,Jaipur,4.2
+38,Restaurant_38,Fast Food,Ahmedabad,2.8
+39,Restaurant_39,Biryani,Delhi,4.6
+40,Restaurant_40,Cafe,Ahmedabad,4.0
+41,Restaurant_41,North Indian,Delhi,3.5
+42,Restaurant_42,NORTH INDIAN,Jaipur,4.1
+43,Restaurant_43,Chinese,Jaipur,3.0
+44,Restaurant_44,Fast Food,Kolkata,2.7
+45,Restaurant_45,Bakery,Bengaluru,3.5
+46,Restaurant_46,Biryani,Hyderabad,4.4
+47,Restaurant_47,CHINESE,Ahmedabad,4.6
+48,Restaurant_48,North Indian,Chennai,
+49,Restaurant_49,Chinese,Hyderabad,4.3
+50,Restaurant_50,Chinese,Ahmedabad,3.5
+51,Restaurant_51,Fast Food,Bengaluru,4.9
+52,Restaurant_52,Cafe,Bengaluru,4.6
+53,Restaurant_53,Chinese,Mumbai,3.2
+54,Restaurant_54,Fast Food,Ahmedabad,3.4
+55,Restaurant_55,South Indian,Mumbai,3.5
+56,Restaurant_56,Biryani,Delhi,
+57,Restaurant_57,Fast Food,Kolkata,4.2
+58,Restaurant_58,Fast Food,Chennai,3.6
+59,Restaurant_59,FAST FOOD,Chennai,3.0
+60,Restaurant_60,Bakery,Delhi,2.9
+61,Restaurant_61,Biryani,Ahmedabad,3.9
+62,Restaurant_62,Cafe,Bengaluru,3.0
+63,Restaurant_63,Biryani,Ahmedabad,
+64,Restaurant_64,South Indian,Hyderabad,4.5
+65,Restaurant_65,Chinese,Mumbai,3.6
+66,Restaurant_66,Chinese,Bengaluru,4.0
+67,Restaurant_67,Cafe,Kolkata,4.5
+68,Restaurant_68,Bakery,Kolkata,4.8
+69,Restaurant_69,South Indian,Mumbai,3.4
+70,Restaurant_70,Chinese,Pune,
+71,Restaurant_71,Chinese,Bengaluru,3.3
+72,Restaurant_72,South Indian,Kolkata,
+73,Restaurant_73,Chinese,Kolkata,3.1
+74,Restaurant_74,Cafe,Ahmedabad,4.6
+75,Restaurant_75,Biryani,Ahmedabad,2.9
+76,Restaurant_76,Chinese,Jaipur,3.0
+77,Restaurant_77,Fast Food,Bengaluru,2.6
+78,Restaurant_78,South Indian,Hyderabad,3.7
+79,Restaurant_79,Cafe,Delhi,2.6
+80,Restaurant_80,Bakery,Bengaluru,4.2
+81,Restaurant_81,NORTH INDIAN,Mumbai,2.9
+82,Restaurant_82,Cafe,Jaipur,4.3
+83,Restaurant_83,Chinese,Bengaluru,4.8
+84,Restaurant_84,SOUTH INDIAN,Delhi,4.2
+85,Restaurant_85,Cafe,Hyderabad,4.1
+86,Restaurant_86,Bakery,Bengaluru,3.3
+87,Restaurant_87,Chinese,Jaipur,
+88,Restaurant_88,Cafe,Kolkata,2.6
+89,Restaurant_89,CHINESE,Delhi,4.7
+90,Restaurant_90,South Indian,Kolkata,4.8
+91,Restaurant_91,Fast Food,Bengaluru,3.0
+92,Restaurant_92,Chinese,Ahmedabad,
+93,Restaurant_93,SOUTH INDIAN,Chennai,2.9
+94,Restaurant_94,Cafe,Bengaluru,3.6
+95,Restaurant_95,Bakery,Delhi,3.5
+96,Restaurant_96,Cafe,Delhi,3.9
+97,Restaurant_97,Bakery,Ahmedabad,4.5
+98,Restaurant_98,Biryani,Delhi,4.8
+99,Restaurant_99,Cafe,Hyderabad,2.7
+100,Restaurant_100,Bakery,Jaipur,2.9
+101,Restaurant_101,Biryani,Chennai,3.0
+102,Restaurant_102,South Indian,Jaipur,2.9
+103,Restaurant_103,Chinese,Mumbai,3.7
+104,Restaurant_104,Cafe,Chennai,4.5
+105,Restaurant_105,Cafe,Pune,4.8
+106,Restaurant_106,North Indian,Ahmedabad,3.7
+107,Restaurant_107,Chinese,Ahmedabad,4.0
+108,Restaurant_108,Biryani,Mumbai,4.7
+109,Restaurant_109,North Indian,Delhi,4.0
+110,Restaurant_110,Biryani,Ahmedabad,4.6
+111,Restaurant_111,Biryani,Delhi,3.0
+112,Restaurant_112,South Indian,Mumbai,
+113,Restaurant_113,Biryani,Kolkata,3.0
+114,Restaurant_114,Biryani,Kolkata,3.1
+115,Restaurant_115,South Indian,Pune,2.8
+116,Restaurant_116,North Indian,Delhi,3.7
+117,Restaurant_117,Cafe,Kolkata,4.6
+118,Restaurant_118,Fast Food,Pune,2.9
+119,Restaurant_119,Fast Food,Bengaluru,4.3
+120,Restaurant_120,South Indian,Ahmedabad,4.5
+121,Restaurant_121,Chinese,Mumbai,4.6
+122,Restaurant_122,Biryani,Pune,4.6
+123,Restaurant_123,Chinese,Kolkata,4.0
+124,Restaurant_124,Cafe,Hyderabad,3.7
+125,Restaurant_125,Biryani,Pune,
+126,Restaurant_126,Fast Food,Jaipur,
+127,Restaurant_127,Cafe,Delhi,
+128,Restaurant_128,Cafe,Ahmedabad,3.5
+129,Restaurant_129,Chinese,Kolkata,3.8
+130,Restaurant_130,Biryani,Kolkata,3.7
+131,Restaurant_131,Cafe,Ahmedabad,3.1
+132,Restaurant_132,Bakery,Bengaluru,2.9
+133,Restaurant_133,Biryani,Hyderabad,4.8
+134,Restaurant_134,Fast Food,Jaipur,3.3
+135,Restaurant_135,Bakery,Hyderabad,2.7
+136,Restaurant_136,South Indian,Chennai,2.5
+137,Restaurant_137,Fast Food,Ahmedabad,4.3
+138,Restaurant_138,North Indian,Ahmedabad,3.5
+139,Restaurant_139,Biryani,Chennai,4.2
+140,Restaurant_140,North Indian,Hyderabad,3.7
+141,Restaurant_141,Chinese,Delhi,3.4
+142,Restaurant_142,Fast Food,Chennai,4.8
+143,Restaurant_143,Cafe,Kolkata,4.7
+144,Restaurant_144,Chinese,Pune,3.7
+145,Restaurant_145,North Indian,Hyderabad,3.6
+146,Restaurant_146,South Indian,Kolkata,
+147,Restaurant_147,Cafe,Hyderabad,4.4
+148,Restaurant_148,Chinese,Ahmedabad,2.9
+149,Restaurant_149,North Indian,Hyderabad,4.3
+150,Restaurant_150,Biryani,Ahmedabad,4.1
+151,Restaurant_151,Cafe,Jaipur,2.8
+152,Restaurant_152,Biryani,Ahmedabad,
+153,Restaurant_153,South Indian,Jaipur,
+154,Restaurant_154,Bakery,Ahmedabad,4.5
+155,Restaurant_155,North Indian,Bengaluru,2.7
+156,Restaurant_156,South Indian,Pune,3.9
+157,Restaurant_157,Bakery,Hyderabad,4.8
+158,Restaurant_158,NORTH INDIAN,Chennai,4.3
+159,Restaurant_159,Fast Food,Hyderabad,3.7
+160,Restaurant_160,Fast Food,Jaipur,4.5
+161,Restaurant_161,Cafe,Jaipur,3.5
+162,Restaurant_162,North Indian,Kolkata,3.3
+163,Restaurant_163,Fast Food,Ahmedabad,3.5
+164,Restaurant_164,Cafe,Delhi,4.2
+165,Restaurant_165,Fast Food,Bengaluru,3.9
+166,Restaurant_166,Biryani,Ahmedabad,4.4
+167,Restaurant_167,Fast Food,Delhi,3.5
+168,Restaurant_168,Chinese,Jaipur,2.9
+169,Restaurant_169,Fast Food,Ahmedabad,3.6
+170,Restaurant_170,Chinese,Pune,4.7
+171,Restaurant_171,Fast Food,Pune,4.4
+172,Restaurant_172,Bakery,Hyderabad,4.4
+173,Restaurant_173,South Indian,Pune,
+174,Restaurant_174,Bakery,Mumbai,4.8
+175,Restaurant_175,South Indian,Bengaluru,3.1
+176,Restaurant_176,Bakery,Chennai,
+177,Restaurant_177,Chinese,Chennai,3.8
+178,Restaurant_178,Fast Food,Kolkata,2.7
+179,Restaurant_179,Cafe,Bengaluru,4.4
+180,Restaurant_180,BAKERY,Hyderabad,4.2
+181,Restaurant_181,Cafe,Kolkata,4.9
+182,Restaurant_182,Chinese,Delhi,4.6
+183,Restaurant_183,FAST FOOD,Kolkata,3.8
+184,Restaurant_184,Bakery,Delhi,3.3
+185,Restaurant_185,South Indian,Hyderabad,2.8
+186,Restaurant_186,Cafe,Chennai,4.3
+187,Restaurant_187,Cafe,Mumbai,3.6
+188,Restaurant_188,Bakery,Jaipur,4.6
+189,Restaurant_189,Biryani,Hyderabad,3.7
+190,Restaurant_190,Biryani,Bengaluru,
+191,Restaurant_191,Fast Food,Hyderabad,4.2
+192,Restaurant_192,North Indian,Ahmedabad,3.7
+193,Restaurant_193,South Indian,Ahmedabad,3.4
+194,Restaurant_194,Fast Food,Delhi,2.9
+195,Restaurant_195,Bakery,Delhi,3.9
+196,Restaurant_196,Cafe,Jaipur,4.1
+197,Restaurant_197,South Indian,Kolkata,3.9
+198,Restaurant_198,Chinese,Pune,3.0
+199,Restaurant_199,South Indian,Bengaluru,4.2
+200,Restaurant_200,Fast Food,Chennai,4.6
+201,Restaurant_201,North Indian,Pune,4.1
+202,Restaurant_202,Cafe,Bengaluru,3.4
+203,Restaurant_203,Bakery,Chennai,3.4
+204,Restaurant_204,Fast Food,Jaipur,
+205,Restaurant_205,Bakery,Kolkata,
+206,Restaurant_206,North Indian,Ahmedabad,3.2
+207,Restaurant_207,Cafe,Mumbai,3.9
+208,Restaurant_208,Fast Food,Chennai,4.6
+209,Restaurant_209,CHINESE,Hyderabad,3.1
+210,Restaurant_210,SOUTH INDIAN,Bengaluru,
+211,Restaurant_211,North Indian,Kolkata,4.4
+212,Restaurant_212,Fast Food,Hyderabad,4.8
+213,Restaurant_213,Chinese,Kolkata,4.8
+214,Restaurant_214,SOUTH INDIAN,Jaipur,3.8
+215,Restaurant_215,Cafe,Chennai,
+216,Restaurant_216,North Indian,Pune,
+217,Restaurant_217,Cafe,Mumbai,3.8
+218,Restaurant_218,South Indian,Kolkata,3.0
+219,Restaurant_219,South Indian,Jaipur,4.6
+220,Restaurant_220,North Indian,Bengaluru,3.2
+221,Restaurant_221,Fast Food,Kolkata,3.1
+222,Restaurant_222,Bakery,Mumbai,4.1
+223,Restaurant_223,Chinese,Chennai,4.0
+224,Restaurant_224,Biryani,Delhi,3.5
+225,Restaurant_225,Bakery,Hyderabad,3.8
+226,Restaurant_226,Cafe,Chennai,3.6
+227,Restaurant_227,Fast Food,Hyderabad,4.2
+228,Restaurant_228,North Indian,Bengaluru,3.9
+229,Restaurant_229,South Indian,Chennai,3.6
+230,Restaurant_230,Biryani,Jaipur,3.6
+231,Restaurant_231,Chinese,Hyderabad,2.8
+232,Restaurant_232,Bakery,Kolkata,3.2
+233,Restaurant_233,Bakery,Kolkata,3.7
+234,Restaurant_234,Chinese,Chennai,4.6
+235,Restaurant_235,Chinese,Mumbai,3.1
+236,Restaurant_236,North Indian,Hyderabad,3.6
+237,Restaurant_237,Fast Food,Bengaluru,4.3
+238,Restaurant_238,Biryani,Pune,4.6
+239,Restaurant_239,Fast Food,Pune,4.6
+240,Restaurant_240,Cafe,Delhi,2.7
+241,Restaurant_241,Fast Food,Jaipur,4.8
+242,Restaurant_242,North Indian,Pune,
+243,Restaurant_243,CHINESE,Mumbai,2.9
+244,Restaurant_244,Bakery,Bengaluru,3.0
+245,Restaurant_245,Biryani,Chennai,2.9
+246,Restaurant_246,Biryani,Mumbai,
+247,Restaurant_247,Fast Food,Mumbai,3.1
+248,Restaurant_248,South Indian,Mumbai,4.1
+249,Restaurant_249,Biryani,Chennai,3.3
+250,Restaurant_250,Bakery,Hyderabad,4.3
+251,Restaurant_251,Bakery,Kolkata,3.8
+252,Restaurant_252,Biryani,Hyderabad,3.5
+253,Restaurant_253,North Indian,Bengaluru,3.0
+254,Restaurant_254,Cafe,Jaipur,3.1
+255,Restaurant_255,Bakery,Hyderabad,3.1
+256,Restaurant_256,North Indian,Pune,3.2
+257,Restaurant_257,Fast Food,Kolkata,4.6
+258,Restaurant_258,Chinese,Bengaluru,3.5
+259,Restaurant_259,Fast Food,Hyderabad,2.8
+260,Restaurant_260,North Indian,Hyderabad,4.2
+261,Restaurant_261,NORTH INDIAN,Delhi,3.8
+262,Restaurant_262,South Indian,Jaipur,4.0
+263,Restaurant_263,Biryani,Bengaluru,4.7
+264,Restaurant_264,South Indian,Chennai,4.8
+265,Restaurant_265,Bakery,Ahmedabad,4.7
+266,Restaurant_266,Chinese,Kolkata,2.6
+267,Restaurant_267,Chinese,Hyderabad,2.8
+268,Restaurant_268,Biryani,Delhi,3.5
+269,Restaurant_269,Chinese,Kolkata,3.5
+270,Restaurant_270,North Indian,Ahmedabad,4.1
+271,Restaurant_271,Chinese,Mumbai,3.3
+272,Restaurant_272,Cafe,Delhi,4.6
+273,Restaurant_273,Biryani,Pune,2.7
+274,Restaurant_274,Fast Food,Delhi,2.5
+275,Restaurant_275,Chinese,Hyderabad,3.1
+276,Restaurant_276,Cafe,Pune,3.2
+277,Restaurant_277,Bakery,Jaipur,
+278,Restaurant_278,Chinese,Kolkata,4.3
+279,Restaurant_279,North Indian,Mumbai,4.3
+280,Restaurant_280,Bakery,Hyderabad,3.9
+281,Restaurant_281,Fast Food,Mumbai,4.1
+282,Restaurant_282,South Indian,Chennai,4.1
+283,Restaurant_283,Bakery,Ahmedabad,4.6
+284,Restaurant_284,Biryani,Ahmedabad,3.6
+285,Restaurant_285,Bakery,Delhi,4.3
+286,Restaurant_286,South Indian,Bengaluru,
+287,Restaurant_287,Bakery,Chennai,
+288,Restaurant_288,South Indian,Bengaluru,3.4
+289,Restaurant_289,Cafe,Ahmedabad,4.7
+290,Restaurant_290,Cafe,Delhi,4.8
+291,Restaurant_291,Bakery,Pune,2.5
+292,Restaurant_292,Cafe,Jaipur,4.0
+293,Restaurant_293,North Indian,Bengaluru,3.2
+294,Restaurant_294,Fast Food,Pune,3.9
+295,Restaurant_295,Bakery,Bengaluru,2.5
+296,Restaurant_296,Chinese,Delhi,3.0
+297,Restaurant_297,Biryani,Ahmedabad,4.5
+298,Restaurant_298,Fast Food,Pune,
+299,Restaurant_299,Biryani,Kolkata,4.4
+300,Restaurant_300,Biryani,Mumbai,4.1
+301,Restaurant_301,Fast Food,Mumbai,3.7
+302,Restaurant_302,Biryani,Delhi,4.6
+303,Restaurant_303,Biryani,Kolkata,4.4
+304,Restaurant_304,Fast Food,Chennai,3.8
+305,Restaurant_305,South Indian,Chennai,3.4
+306,Restaurant_306,Chinese,Chennai,3.4
+307,Restaurant_307,Cafe,Mumbai,4.4
+308,Restaurant_308,Bakery,Kolkata,2.6
+309,Restaurant_309,South Indian,Mumbai,4.3
+310,Restaurant_310,Bakery,Mumbai,3.6
+311,Restaurant_311,Cafe,Mumbai,4.0
+312,Restaurant_312,Biryani,Kolkata,4.0
+313,Restaurant_313,Bakery,Hyderabad,4.4
+314,Restaurant_314,Cafe,Hyderabad,4.6
+315,Restaurant_315,Cafe,Kolkata,3.8
+316,Restaurant_316,North Indian,Ahmedabad,3.2
+317,Restaurant_317,Bakery,Jaipur,4.1
+318,Restaurant_318,SOUTH INDIAN,Delhi,2.6
+319,Restaurant_319,Biryani,Jaipur,4.1
+320,Restaurant_320,Biryani,Pune,3.9
+321,Restaurant_321,Chinese,Mumbai,4.1
+322,Restaurant_322,South Indian,Hyderabad,
+323,Restaurant_323,Biryani,Delhi,4.4
+324,Restaurant_324,Fast Food,Mumbai,4.0
+325,Restaurant_325,Bakery,Hyderabad,4.8
+326,Restaurant_326,Chinese,Kolkata,3.5
+327,Restaurant_327,Fast Food,Chennai,3.8
+328,Restaurant_328,Biryani,Kolkata,3.7
+329,Restaurant_329,South Indian,Mumbai,3.6
+330,Restaurant_330,Chinese,Hyderabad,3.3
+331,Restaurant_331,Bakery,Mumbai,3.0
+332,Restaurant_332,South Indian,Kolkata,2.8
+333,Restaurant_333,Cafe,Ahmedabad,4.6
+334,Restaurant_334,Chinese,Jaipur,4.2
+335,Restaurant_335,South Indian,Ahmedabad,3.2
+336,Restaurant_336,Chinese,Jaipur,3.2
+337,Restaurant_337,South Indian,Ahmedabad,4.4
+338,Restaurant_338,Biryani,Hyderabad,4.3
+339,Restaurant_339,Biryani,Kolkata,3.8
+340,Restaurant_340,Chinese,Chennai,
+341,Restaurant_341,Biryani,Kolkata,3.0
+342,Restaurant_342,Fast Food,Mumbai,3.7
+343,Restaurant_343,South Indian,Ahmedabad,3.0
+344,Restaurant_344,Bakery,Delhi,4.6
+345,Restaurant_345,Chinese,Pune,4.2
+346,Restaurant_346,Bakery,Jaipur,2.8
+347,Restaurant_347,Fast Food,Jaipur,2.7
+348,Restaurant_348,Cafe,Chennai,4.4
+349,Restaurant_349,Chinese,Kolkata,2.9
+350,Restaurant_350,North Indian,Mumbai,3.4
+351,Restaurant_351,North Indian,Jaipur,
+352,Restaurant_352,North Indian,Hyderabad,3.3
+353,Restaurant_353,North Indian,Hyderabad,4.0
+354,Restaurant_354,Cafe,Bengaluru,3.8
+355,Restaurant_355,South Indian,Pune,3.9
+356,Restaurant_356,South Indian,Mumbai,3.7
+357,Restaurant_357,Cafe,Mumbai,4.2
+358,Restaurant_358,South Indian,Pune,2.7
+359,Restaurant_359,Fast Food,Bengaluru,4.8
+360,Restaurant_360,South Indian,Ahmedabad,2.8
+361,Restaurant_361,Cafe,Jaipur,4.1
+362,Restaurant_362,Chinese,Delhi,
+363,Restaurant_363,South Indian,Pune,2.8
+364,Restaurant_364,Chinese,Ahmedabad,4.6
+365,Restaurant_365,Biryani,Mumbai,4.2
+366,Restaurant_366,Chinese,Chennai,
+367,Restaurant_367,Bakery,Hyderabad,3.5
+368,Restaurant_368,Fast Food,Jaipur,4.9
+369,Restaurant_369,Fast Food,Bengaluru,4.1
+370,Restaurant_370,Biryani,Mumbai,2.9
+371,Restaurant_371,Fast Food,Kolkata,2.7
+372,Restaurant_372,South Indian,Jaipur,4.1
+373,Restaurant_373,Cafe,Hyderabad,
+374,Restaurant_374,Chinese,Chennai,3.0
+375,Restaurant_375,North Indian,Chennai,2.8
+376,Restaurant_376,South Indian,Kolkata,2.6
+377,Restaurant_377,Bakery,Mumbai,3.1
+378,Restaurant_378,Fast Food,Mumbai,3.5
+379,Restaurant_379,South Indian,Ahmedabad,4.4
+380,Restaurant_380,Biryani,Bengaluru,2.9
+381,Restaurant_381,BIRYANI,Chennai,3.1
+382,Restaurant_382,Biryani,Ahmedabad,2.6
+383,Restaurant_383,Chinese,Pune,3.1
+384,Restaurant_384,Fast Food,Mumbai,3.3
+385,Restaurant_385,Bakery,Mumbai,2.8
+386,Restaurant_386,South Indian,Hyderabad,3.6
+387,Restaurant_387,BIRYANI,Pune,2.9
+388,Restaurant_388,South Indian,Delhi,2.6
+389,Restaurant_389,FAST FOOD,Jaipur,4.4
+390,Restaurant_390,Chinese,Pune,4.9
+391,Restaurant_391,Biryani,Pune,4.6
+392,Restaurant_392,Bakery,Kolkata,3.6
+393,Restaurant_393,North Indian,Ahmedabad,
+394,Restaurant_394,Fast Food,Jaipur,3.8
+395,Restaurant_395,Cafe,Kolkata,
+396,Restaurant_396,Chinese,Bengaluru,4.9
+397,Restaurant_397,Fast Food,Kolkata,4.2
+398,Restaurant_398,Chinese,Hyderabad,2.6
+399,Restaurant_399,North Indian,Hyderabad,4.3
+400,Restaurant_400,Chinese,Chennai,4.8
+401,Restaurant_401,CAFE,Delhi,2.7
+402,Restaurant_402,South Indian,Ahmedabad,3.8
+403,Restaurant_403,South Indian,Bengaluru,4.5
+404,Restaurant_404,South Indian,Pune,4.3
+405,Restaurant_405,Chinese,Kolkata,4.1
+406,Restaurant_406,Biryani,Bengaluru,4.4
+407,Restaurant_407,North Indian,Ahmedabad,4.8
+408,Restaurant_408,South Indian,Kolkata,3.8
+409,Restaurant_409,South Indian,Hyderabad,3.4
+410,Restaurant_410,Bakery,Jaipur,3.2
+411,Restaurant_411,South Indian,Kolkata,3.8
+412,Restaurant_412,Biryani,Ahmedabad,3.9
+413,Restaurant_413,South Indian,Pune,2.7
+414,Restaurant_414,Fast Food,Kolkata,2.5
+415,Restaurant_415,North Indian,Ahmedabad,3.5
+416,Restaurant_416,Chinese,Jaipur,3.2
+417,Restaurant_417,Fast Food,Kolkata,3.9
+418,Restaurant_418,Cafe,Kolkata,3.5
+419,Restaurant_419,Fast Food,Ahmedabad,3.6
+420,Restaurant_420,Fast Food,Delhi,
+421,Restaurant_421,Fast Food,Pune,3.4
+422,Restaurant_422,Chinese,Chennai,4.5
+423,Restaurant_423,Bakery,Pune,3.1
+424,Restaurant_424,Biryani,Chennai,4.4
+425,Restaurant_425,Biryani,Hyderabad,3.5
+426,Restaurant_426,Bakery,Ahmedabad,
+427,Restaurant_427,Cafe,Jaipur,3.4
+428,Restaurant_428,Fast Food,Chennai,3.3
+429,Restaurant_429,Fast Food,Kolkata,3.6
+430,Restaurant_430,North Indian,Jaipur,3.3
+431,Restaurant_431,Bakery,Chennai,4.9
+432,Restaurant_432,Chinese,Chennai,3.6
+433,Restaurant_433,Cafe,Chennai,2.7
+434,Restaurant_434,North Indian,Bengaluru,3.3
+435,Restaurant_435,South Indian,Mumbai,
+436,Restaurant_436,South Indian,Jaipur,4.1
+437,Restaurant_437,Chinese,Jaipur,4.0
+438,Restaurant_438,Biryani,Pune,2.9
+439,Restaurant_439,Fast Food,Mumbai,2.6
+440,Restaurant_440,Biryani,Pune,4.3
+441,Restaurant_441,Fast Food,Delhi,3.1
+442,Restaurant_442,Fast Food,Chennai,3.1
+443,Restaurant_443,Biryani,Mumbai,
+444,Restaurant_444,South Indian,Kolkata,4.3
+445,Restaurant_445,Bakery,Ahmedabad,4.8
+446,Restaurant_446,Biryani,Ahmedabad,3.9
+447,Restaurant_447,Cafe,Hyderabad,4.8
+448,Restaurant_448,Cafe,Pune,3.9
+449,Restaurant_449,Chinese,Mumbai,3.8
+450,Restaurant_450,Chinese,Delhi,4.9
+451,Restaurant_451,CAFE,Delhi,3.0
+452,Restaurant_452,South Indian,Hyderabad,3.3
+453,Restaurant_453,Chinese,Pune,3.8
+454,Restaurant_454,North Indian,Mumbai,2.5
+455,Restaurant_455,Bakery,Pune,4.5
+456,Restaurant_456,North Indian,Hyderabad,2.8
+457,Restaurant_457,South Indian,Ahmedabad,3.2
+458,Restaurant_458,North Indian,Jaipur,2.8
+459,Restaurant_459,Fast Food,Pune,3.2
+460,Restaurant_460,Chinese,Delhi,3.0
+461,Restaurant_461,North Indian,Hyderabad,4.2
+462,Restaurant_462,South Indian,Pune,3.1
+463,Restaurant_463,Chinese,Delhi,2.9
+464,Restaurant_464,BIRYANI,Kolkata,3.6
+465,Restaurant_465,Cafe,Delhi,4.1
+466,Restaurant_466,South Indian,Hyderabad,
+467,Restaurant_467,North Indian,Mumbai,2.7
+468,Restaurant_468,Bakery,Hyderabad,3.7
+469,Restaurant_469,Bakery,Kolkata,2.7
+470,Restaurant_470,North Indian,Bengaluru,3.2
+471,Restaurant_471,South Indian,Hyderabad,4.6
+472,Restaurant_472,Bakery,Delhi,2.5
+473,Restaurant_473,Cafe,Pune,3.5
+474,Restaurant_474,Fast Food,Kolkata,3.9
+475,Restaurant_475,South Indian,Kolkata,4.7
+476,Restaurant_476,Cafe,Pune,4.7
+477,Restaurant_477,Biryani,Jaipur,3.1
+478,Restaurant_478,Fast Food,Pune,4.9
+479,Restaurant_479,Cafe,Mumbai,4.3
+480,Restaurant_480,Bakery,Bengaluru,
+481,Restaurant_481,Chinese,Chennai,3.2
+482,Restaurant_482,North Indian,Pune,3.8
+483,Restaurant_483,Bakery,Hyderabad,3.2
+484,Restaurant_484,South Indian,Ahmedabad,4.5
+485,Restaurant_485,North Indian,Ahmedabad,4.2
+486,Restaurant_486,Bakery,Chennai,4.7
+487,Restaurant_487,Bakery,Ahmedabad,3.9
+488,Restaurant_488,Bakery,Chennai,3.4
+489,Restaurant_489,Biryani,Pune,2.8
+490,Restaurant_490,Chinese,Delhi,3.8
+491,Restaurant_491,Chinese,Pune,4.6
+492,Restaurant_492,Fast Food,Jaipur,4.9
+493,Restaurant_493,Biryani,Kolkata,4.8
+494,Restaurant_494,South Indian,Jaipur,
+495,Restaurant_495,Bakery,Hyderabad,3.8
+496,Restaurant_496,Biryani,Ahmedabad,2.7
+497,Restaurant_497,Chinese,Bengaluru,4.2
+498,Restaurant_498,North Indian,Hyderabad,4.2
+499,Restaurant_499,Chinese,Ahmedabad,3.3
+500,Restaurant_500,Fast Food,Mumbai,3.7
+501,Restaurant_501,Biryani,Kolkata,4.1
+502,Restaurant_502,Bakery,Mumbai,3.2
+503,Restaurant_503,South Indian,Hyderabad,3.7
+504,Restaurant_504,Bakery,Ahmedabad,2.7
+505,Restaurant_505,Fast Food,Kolkata,
+506,Restaurant_506,Fast Food,Ahmedabad,
+507,Restaurant_507,North Indian,Pune,4.6
+508,Restaurant_508,Bakery,Pune,3.8
+509,Restaurant_509,South Indian,Chennai,3.1
+510,Restaurant_510,Biryani,Delhi,2.7
+511,Restaurant_511,NORTH INDIAN,Pune,4.2
+512,Restaurant_512,Cafe,Bengaluru,4.7
+513,Restaurant_513,Fast Food,Pune,2.9
+514,Restaurant_514,Cafe,Chennai,4.6
+515,Restaurant_515,North Indian,Bengaluru,
+516,Restaurant_516,Biryani,Hyderabad,4.1
+517,Restaurant_517,Fast Food,Ahmedabad,4.4
+518,Restaurant_518,Bakery,Mumbai,4.7
+519,Restaurant_519,North Indian,Jaipur,3.6
+520,Restaurant_520,South Indian,Kolkata,
+521,Restaurant_521,Bakery,Pune,
+522,Restaurant_522,South Indian,Jaipur,3.4
+523,Restaurant_523,North Indian,Kolkata,
+524,Restaurant_524,Bakery,Ahmedabad,2.6
+525,Restaurant_525,Chinese,Mumbai,4.5
+526,Restaurant_526,Chinese,Pune,4.5
+527,Restaurant_527,Bakery,Bengaluru,2.6
+528,Restaurant_528,Bakery,Jaipur,
+529,Restaurant_529,Bakery,Pune,3.2
+530,Restaurant_530,Chinese,Bengaluru,4.8
+531,Restaurant_531,Chinese,Pune,3.4
+532,Restaurant_532,Bakery,Kolkata,3.8
+533,Restaurant_533,Biryani,Kolkata,3.5
+534,Restaurant_534,Chinese,Pune,3.0
+535,Restaurant_535,Biryani,Mumbai,
+536,Restaurant_536,Bakery,Bengaluru,4.4
+537,Restaurant_537,Fast Food,Delhi,4.3
+538,Restaurant_538,North Indian,Kolkata,4.2
+539,Restaurant_539,Bakery,Kolkata,4.3
+540,Restaurant_540,Cafe,Pune,4.5
+541,Restaurant_541,Chinese,Chennai,4.5
+542,Restaurant_542,Cafe,Mumbai,4.7
+543,Restaurant_543,South Indian,Jaipur,3.5
+544,Restaurant_544,Bakery,Hyderabad,
+545,Restaurant_545,North Indian,Ahmedabad,4.7
+546,Restaurant_546,Biryani,Pune,3.5
+547,Restaurant_547,Fast Food,Hyderabad,4.5
+548,Restaurant_548,Chinese,Mumbai,3.6
+549,Restaurant_549,South Indian,Ahmedabad,4.0
+550,Restaurant_550,South Indian,Pune,4.5
+551,Restaurant_551,Bakery,Jaipur,2.6
+552,Restaurant_552,Biryani,Ahmedabad,3.9
+553,Restaurant_553,Cafe,Ahmedabad,3.8
+554,Restaurant_554,Biryani,Kolkata,4.1
+555,Restaurant_555,Biryani,Chennai,3.9
+556,Restaurant_556,North Indian,Pune,3.0
+557,Restaurant_557,Fast Food,Ahmedabad,4.3
+558,Restaurant_558,Cafe,Bengaluru,3.3
+559,Restaurant_559,Cafe,Bengaluru,3.8
+560,Restaurant_560,Bakery,Kolkata,4.0
+561,Restaurant_561,Bakery,Bengaluru,2.8
+562,Restaurant_562,Chinese,Delhi,4.3
+563,Restaurant_563,South Indian,Hyderabad,
+564,Restaurant_564,South Indian,Jaipur,
+565,Restaurant_565,Cafe,Chennai,4.8
+566,Restaurant_566,FAST FOOD,Kolkata,
+567,Restaurant_567,North Indian,Ahmedabad,4.6
+568,Restaurant_568,Fast Food,Delhi,4.5
+569,Restaurant_569,Fast Food,Ahmedabad,3.0
+570,Restaurant_570,Bakery,Mumbai,2.7
+571,Restaurant_571,Fast Food,Hyderabad,4.4
+572,Restaurant_572,Biryani,Kolkata,3.0
+573,Restaurant_573,South Indian,Hyderabad,4.4
+574,Restaurant_574,Bakery,Mumbai,2.6
+575,Restaurant_575,Cafe,Jaipur,3.2
+576,Restaurant_576,Cafe,Jaipur,2.6
+577,Restaurant_577,Bakery,Hyderabad,4.3
+578,Restaurant_578,Cafe,Mumbai,3.6
+579,Restaurant_579,Biryani,Chennai,4.4
+580,Restaurant_580,Bakery,Mumbai,4.4
+581,Restaurant_581,NORTH INDIAN,Bengaluru,
+582,Restaurant_582,South Indian,Chennai,2.8
+583,Restaurant_583,Chinese,Pune,3.7
+584,Restaurant_584,South Indian,Bengaluru,3.9
+585,Restaurant_585,Cafe,Pune,4.7
+586,Restaurant_586,South Indian,Chennai,2.5
+587,Restaurant_587,Biryani,Ahmedabad,4.0
+588,Restaurant_588,North Indian,Hyderabad,2.6
+589,Restaurant_589,Fast Food,Jaipur,4.2
+590,Restaurant_590,North Indian,Delhi,2.9
+591,Restaurant_591,Bakery,Pune,3.6
+592,Restaurant_592,Cafe,Ahmedabad,2.9
+593,Restaurant_593,Fast Food,Chennai,3.1
+594,Restaurant_594,North Indian,Hyderabad,2.9
+595,Restaurant_595,North Indian,Delhi,3.6
+596,Restaurant_596,Bakery,Ahmedabad,3.4
+597,Restaurant_597,Fast Food,Hyderabad,4.8
+598,Restaurant_598,BAKERY,Mumbai,3.1
+599,Restaurant_599,Cafe,Delhi,4.0
+600,Restaurant_600,BIRYANI,Kolkata,2.5
+601,Restaurant_601,BAKERY,Pune,4.3
+602,Restaurant_602,Bakery,Mumbai,4.2
+603,Restaurant_603,South Indian,Kolkata,4.8
+604,Restaurant_604,North Indian,Hyderabad,4.7
+605,Restaurant_605,Cafe,Kolkata,3.4
+606,Restaurant_606,Cafe,Ahmedabad,3.6
+607,Restaurant_607,North Indian,Ahmedabad,4.5
+608,Restaurant_608,North Indian,Ahmedabad,3.6
+609,Restaurant_609,South Indian,Delhi,
+610,Restaurant_610,South Indian,Hyderabad,3.1
+611,Restaurant_611,Bakery,Hyderabad,4.6
+612,Restaurant_612,South Indian,Delhi,3.1
+613,Restaurant_613,Biryani,Jaipur,2.8
+614,Restaurant_614,Chinese,Mumbai,3.5
+615,Restaurant_615,Chinese,Hyderabad,3.8
+616,Restaurant_616,Chinese,Kolkata,2.6
+617,Restaurant_617,Cafe,Kolkata,3.8
+618,Restaurant_618,South Indian,Jaipur,3.6
+619,Restaurant_619,Cafe,Kolkata,4.7
+620,Restaurant_620,South Indian,Kolkata,2.7
+621,Restaurant_621,Chinese,Hyderabad,2.6
+622,Restaurant_622,Biryani,Mumbai,3.3
+623,Restaurant_623,North Indian,Ahmedabad,3.2
+624,Restaurant_624,Chinese,Ahmedabad,4.6
+625,Restaurant_625,North Indian,Bengaluru,4.8
+626,Restaurant_626,Fast Food,Ahmedabad,4.7
+627,Restaurant_627,Bakery,Ahmedabad,
+628,Restaurant_628,Fast Food,Jaipur,2.6
+629,Restaurant_629,Fast Food,Hyderabad,3.3
+630,Restaurant_630,North Indian,Delhi,3.8
+631,Restaurant_631,Cafe,Ahmedabad,2.9
+632,Restaurant_632,Fast Food,Chennai,3.7
+633,Restaurant_633,North Indian,Delhi,3.0
+634,Restaurant_634,Chinese,Chennai,3.6
+635,Restaurant_635,North Indian,Jaipur,3.8
+636,Restaurant_636,Fast Food,Delhi,4.7
+637,Restaurant_637,South Indian,Pune,3.7
+638,Restaurant_638,Fast Food,Kolkata,4.5
+639,Restaurant_639,North Indian,Kolkata,3.8
+640,Restaurant_640,South Indian,Ahmedabad,2.8
+641,Restaurant_641,Fast Food,Ahmedabad,4.7
+642,Restaurant_642,Cafe,Kolkata,2.9
+643,Restaurant_643,Chinese,Jaipur,3.3
+644,Restaurant_644,Chinese,Hyderabad,3.1
+645,Restaurant_645,South Indian,Bengaluru,4.3
+646,Restaurant_646,North Indian,Kolkata,4.2
+647,Restaurant_647,South Indian,Ahmedabad,3.7
+648,Restaurant_648,NORTH INDIAN,Bengaluru,3.1
+649,Restaurant_649,BIRYANI,Chennai,3.9
+650,Restaurant_650,Chinese,Ahmedabad,3.6
+651,Restaurant_651,Bakery,Jaipur,
+652,Restaurant_652,North Indian,Pune,4.1
+653,Restaurant_653,FAST FOOD,Jaipur,3.7
+654,Restaurant_654,Chinese,Ahmedabad,3.7
+655,Restaurant_655,Biryani,Pune,3.9
+656,Restaurant_656,Fast Food,Chennai,
+657,Restaurant_657,Bakery,Mumbai,2.9
+658,Restaurant_658,Cafe,Kolkata,3.0
+659,Restaurant_659,Biryani,Bengaluru,4.0
+660,Restaurant_660,Biryani,Chennai,
+661,Restaurant_661,Chinese,Delhi,4.4
+662,Restaurant_662,Bakery,Bengaluru,3.7
+663,Restaurant_663,Bakery,Delhi,2.8
+664,Restaurant_664,South Indian,Chennai,3.8
+665,Restaurant_665,Cafe,Pune,
+666,Restaurant_666,Fast Food,Delhi,
+667,Restaurant_667,Bakery,Hyderabad,3.0
+668,Restaurant_668,North Indian,Ahmedabad,4.1
+669,Restaurant_669,FAST FOOD,Hyderabad,2.6
+670,Restaurant_670,North Indian,Bengaluru,4.5
+671,Restaurant_671,South Indian,Ahmedabad,3.4
+672,Restaurant_672,SOUTH INDIAN,Delhi,2.6
+673,Restaurant_673,Chinese,Chennai,2.7
+674,Restaurant_674,North Indian,Delhi,4.7
+675,Restaurant_675,CHINESE,Hyderabad,2.8
+676,Restaurant_676,Chinese,Delhi,3.6
+677,Restaurant_677,Bakery,Jaipur,
+678,Restaurant_678,North Indian,Kolkata,3.8
+679,Restaurant_679,Cafe,Kolkata,
+680,Restaurant_680,Fast Food,Chennai,4.7
+681,Restaurant_681,Chinese,Pune,3.3
+682,Restaurant_682,Chinese,Delhi,3.9
+683,Restaurant_683,Cafe,Delhi,3.4
+684,Restaurant_684,Cafe,Hyderabad,3.1
+685,Restaurant_685,South Indian,Hyderabad,3.3
+686,Restaurant_686,Cafe,Pune,3.1
+687,Restaurant_687,Bakery,Pune,4.0
+688,Restaurant_688,Biryani,Delhi,3.8
+689,Restaurant_689,North Indian,Jaipur,4.0
+690,Restaurant_690,Cafe,Mumbai,4.3
+691,Restaurant_691,North Indian,Mumbai,3.5
+692,Restaurant_692,South Indian,Mumbai,2.8
+693,Restaurant_693,Cafe,Kolkata,2.9
+694,Restaurant_694,Bakery,Mumbai,2.6
+695,Restaurant_695,North Indian,Pune,4.0
+696,Restaurant_696,Bakery,Delhi,3.7
+697,Restaurant_697,Chinese,Kolkata,3.6
+698,Restaurant_698,South Indian,Delhi,4.7
+699,Restaurant_699,North Indian,Ahmedabad,2.6
+700,Restaurant_700,Bakery,Delhi,4.0
+701,Restaurant_701,Fast Food,Delhi,2.5
+702,Restaurant_702,Biryani,Jaipur,3.6
+703,Restaurant_703,South Indian,Kolkata,
+704,Restaurant_704,Biryani,Hyderabad,2.8
+705,Restaurant_705,Bakery,Bengaluru,3.6
+706,Restaurant_706,North Indian,Delhi,3.9
+707,Restaurant_707,South Indian,Kolkata,3.5
+708,Restaurant_708,South Indian,Kolkata,4.3
+709,Restaurant_709,BIRYANI,Jaipur,3.7
+710,Restaurant_710,Bakery,Chennai,
+711,Restaurant_711,Bakery,Chennai,2.9
+712,Restaurant_712,Bakery,Jaipur,4.5
+713,Restaurant_713,Chinese,Chennai,4.0
+714,Restaurant_714,North Indian,Ahmedabad,2.6
+715,Restaurant_715,North Indian,Hyderabad,
+716,Restaurant_716,Fast Food,Pune,3.5
+717,Restaurant_717,Fast Food,Pune,4.1
+718,Restaurant_718,Fast Food,Hyderabad,3.0
+719,Restaurant_719,Biryani,Ahmedabad,3.4
+720,Restaurant_720,Fast Food,Chennai,
+721,Restaurant_721,Biryani,Pune,3.1
+722,Restaurant_722,Fast Food,Mumbai,3.1
+723,Restaurant_723,South Indian,Kolkata,4.4
+724,Restaurant_724,Biryani,Chennai,2.7
+725,Restaurant_725,Bakery,Jaipur,4.0
+726,Restaurant_726,Bakery,Chennai,4.2
+727,Restaurant_727,South Indian,Ahmedabad,4.8
+728,Restaurant_728,North Indian,Jaipur,3.9
+729,Restaurant_729,South Indian,Bengaluru,3.5
+730,Restaurant_730,Biryani,Kolkata,
+731,Restaurant_731,Biryani,Ahmedabad,4.4
+732,Restaurant_732,South Indian,Pune,
+733,Restaurant_733,Fast Food,Delhi,3.4
+734,Restaurant_734,Bakery,Mumbai,3.1
+735,Restaurant_735,FAST FOOD,Chennai,
+736,Restaurant_736,Cafe,Hyderabad,4.1
+737,Restaurant_737,North Indian,Mumbai,4.5
+738,Restaurant_738,Biryani,Bengaluru,2.6
+739,Restaurant_739,Cafe,Kolkata,2.7
+740,Restaurant_740,Biryani,Delhi,2.7
+741,Restaurant_741,South Indian,Hyderabad,4.8
+742,Restaurant_742,Bakery,Bengaluru,4.7
+743,Restaurant_743,Bakery,Jaipur,3.8
+744,Restaurant_744,Cafe,Chennai,2.6
+745,Restaurant_745,Fast Food,Jaipur,3.0
+746,Restaurant_746,Bakery,Jaipur,2.7
+747,Restaurant_747,Fast Food,Jaipur,3.8
+748,Restaurant_748,BAKERY,Mumbai,2.6
+749,Restaurant_749,Chinese,Pune,
+750,Restaurant_750,Chinese,Delhi,3.3
+751,Restaurant_751,BIRYANI,Hyderabad,4.0
+752,Restaurant_752,Biryani,Kolkata,
+753,Restaurant_753,Cafe,Hyderabad,4.2
+754,Restaurant_754,Chinese,Delhi,2.5
+755,Restaurant_755,Fast Food,Jaipur,4.5
+756,Restaurant_756,Bakery,Delhi,4.5
+757,Restaurant_757,Bakery,Ahmedabad,4.3
+758,Restaurant_758,South Indian,Delhi,4.1
+759,Restaurant_759,Cafe,Kolkata,3.8
+760,Restaurant_760,Biryani,Hyderabad,4.5
+761,Restaurant_761,North Indian,Bengaluru,3.3
+762,Restaurant_762,North Indian,Hyderabad,3.3
+763,Restaurant_763,South Indian,Ahmedabad,2.6
+764,Restaurant_764,Cafe,Hyderabad,3.7
+765,Restaurant_765,Cafe,Hyderabad,4.3
+766,Restaurant_766,South Indian,Hyderabad,3.9
+767,Restaurant_767,South Indian,Jaipur,3.7
+768,Restaurant_768,North Indian,Delhi,4.8
+769,Restaurant_769,North Indian,Ahmedabad,4.7
+770,Restaurant_770,Cafe,Delhi,4.5
+771,Restaurant_771,Bakery,Kolkata,3.9
+772,Restaurant_772,North Indian,Hyderabad,2.9
+773,Restaurant_773,North Indian,Kolkata,3.0
+774,Restaurant_774,Cafe,Mumbai,4.8
+775,Restaurant_775,Fast Food,Bengaluru,3.9
+776,Restaurant_776,Chinese,Chennai,3.0
+777,Restaurant_777,Biryani,Delhi,4.4
+778,Restaurant_778,Cafe,Jaipur,
+779,Restaurant_779,BAKERY,Pune,3.7
+780,Restaurant_780,North Indian,Mumbai,3.9
+781,Restaurant_781,South Indian,Delhi,3.8
+782,Restaurant_782,South Indian,Delhi,3.8
+783,Restaurant_783,Chinese,Pune,3.3
+784,Restaurant_784,Fast Food,Pune,4.9
+785,Restaurant_785,North Indian,Chennai,4.1
+786,Restaurant_786,Chinese,Bengaluru,
+787,Restaurant_787,Fast Food,Delhi,
+788,Restaurant_788,North Indian,Bengaluru,4.8
+789,Restaurant_789,Bakery,Pune,2.9
+790,Restaurant_790,Chinese,Mumbai,4.0
+791,Restaurant_791,North Indian,Bengaluru,4.9
+792,Restaurant_792,BAKERY,Mumbai,3.4
+793,Restaurant_793,Cafe,Delhi,3.4
+794,Restaurant_794,CHINESE,Jaipur,4.1
+795,Restaurant_795,South Indian,Pune,2.6
+796,Restaurant_796,Biryani,Ahmedabad,3.1
+797,Restaurant_797,North Indian,Kolkata,3.0
+798,Restaurant_798,Chinese,Ahmedabad,4.0
+799,Restaurant_799,Cafe,Hyderabad,4.4
+800,Restaurant_800,Chinese,Jaipur,
+801,Restaurant_801,Fast Food,Bengaluru,4.6
+802,Restaurant_802,Biryani,Ahmedabad,3.0
+803,Restaurant_803,Fast Food,Hyderabad,2.9
+804,Restaurant_804,BIRYANI,Jaipur,4.0
+805,Restaurant_805,Bakery,Chennai,4.6
+806,Restaurant_806,Bakery,Ahmedabad,4.5
+807,Restaurant_807,Biryani,Hyderabad,
+808,Restaurant_808,Cafe,Bengaluru,
+809,Restaurant_809,Bakery,Bengaluru,2.7
+810,Restaurant_810,Cafe,Pune,4.5
+811,Restaurant_811,Cafe,Mumbai,4.4
+812,Restaurant_812,Cafe,Ahmedabad,4.4
+813,Restaurant_813,Biryani,Kolkata,4.3
+814,Restaurant_814,Cafe,Bengaluru,3.6
+815,Restaurant_815,South Indian,Ahmedabad,3.8
+816,Restaurant_816,Fast Food,Bengaluru,3.9
+817,Restaurant_817,South Indian,Jaipur,2.5
+818,Restaurant_818,South Indian,Mumbai,2.6
+819,Restaurant_819,South Indian,Pune,3.1
+820,Restaurant_820,Chinese,Bengaluru,4.1
+821,Restaurant_821,South Indian,Pune,2.6
+822,Restaurant_822,South Indian,Kolkata,4.4
+823,Restaurant_823,Bakery,Hyderabad,4.2
+824,Restaurant_824,Biryani,Jaipur,3.0
+825,Restaurant_825,Bakery,Hyderabad,4.3
+826,Restaurant_826,NORTH INDIAN,Mumbai,4.0
+827,Restaurant_827,Bakery,Kolkata,4.1
+828,Restaurant_828,Biryani,Bengaluru,4.2
+829,Restaurant_829,Biryani,Chennai,2.9
+830,Restaurant_830,Biryani,Hyderabad,2.7
+831,Restaurant_831,Chinese,Chennai,4.7
+832,Restaurant_832,Cafe,Mumbai,3.7
+833,Restaurant_833,Biryani,Hyderabad,4.4
+834,Restaurant_834,Fast Food,Jaipur,
+835,Restaurant_835,Biryani,Hyderabad,4.6
+836,Restaurant_836,Chinese,Mumbai,4.1
+837,Restaurant_837,North Indian,Bengaluru,3.8
+838,Restaurant_838,Cafe,Mumbai,4.2
+839,Restaurant_839,North Indian,Bengaluru,2.6
+840,Restaurant_840,Fast Food,Bengaluru,4.0
+841,Restaurant_841,Chinese,Jaipur,3.3
+842,Restaurant_842,North Indian,Jaipur,4.4
+843,Restaurant_843,Fast Food,Kolkata,2.6
+844,Restaurant_844,Cafe,Bengaluru,4.7
+845,Restaurant_845,North Indian,Pune,
+846,Restaurant_846,North Indian,Delhi,
+847,Restaurant_847,Chinese,Jaipur,3.7
+848,Restaurant_848,Cafe,Kolkata,4.0
+849,Restaurant_849,North Indian,Jaipur,4.4
+850,Restaurant_850,Biryani,Pune,4.6
+851,Restaurant_851,South Indian,Bengaluru,
+852,Restaurant_852,Fast Food,Ahmedabad,4.0
+853,Restaurant_853,Chinese,Mumbai,3.6
+854,Restaurant_854,North Indian,Chennai,3.3
+855,Restaurant_855,Chinese,Bengaluru,
+856,Restaurant_856,Cafe,Pune,4.3
+857,Restaurant_857,Biryani,Delhi,3.8
+858,Restaurant_858,Chinese,Kolkata,2.7
+859,Restaurant_859,Bakery,Bengaluru,2.9
+860,Restaurant_860,South Indian,Hyderabad,3.2
+861,Restaurant_861,Biryani,Mumbai,3.8
+862,Restaurant_862,Cafe,Kolkata,2.8
+863,Restaurant_863,Bakery,Pune,4.8
+864,Restaurant_864,North Indian,Hyderabad,4.0
+865,Restaurant_865,Cafe,Kolkata,2.8
+866,Restaurant_866,Bakery,Ahmedabad,3.9
+867,Restaurant_867,Chinese,Hyderabad,3.5
+868,Restaurant_868,Fast Food,Hyderabad,2.7
+869,Restaurant_869,Chinese,Jaipur,2.8
+870,Restaurant_870,Chinese,Kolkata,
+871,Restaurant_871,SOUTH INDIAN,Delhi,4.9
+872,Restaurant_872,Biryani,Ahmedabad,3.2
+873,Restaurant_873,Chinese,Mumbai,3.2
+874,Restaurant_874,Chinese,Mumbai,4.1
+875,Restaurant_875,North Indian,Mumbai,3.3
+876,Restaurant_876,South Indian,Kolkata,3.7
+877,Restaurant_877,Chinese,Delhi,4.7
+878,Restaurant_878,Biryani,Jaipur,4.5
+879,Restaurant_879,Chinese,Chennai,3.8
+880,Restaurant_880,Biryani,Kolkata,3.6
+881,Restaurant_881,Chinese,Pune,
+882,Restaurant_882,North Indian,Chennai,4.6
+883,Restaurant_883,Chinese,Bengaluru,
+884,Restaurant_884,Biryani,Hyderabad,4.0
+885,Restaurant_885,Chinese,Pune,4.3
+886,Restaurant_886,Fast Food,Delhi,
+887,Restaurant_887,North Indian,Mumbai,3.5
+888,Restaurant_888,Fast Food,Delhi,3.0
+889,Restaurant_889,South Indian,Chennai,3.7
+890,Restaurant_890,Cafe,Jaipur,3.5
+891,Restaurant_891,North Indian,Ahmedabad,4.0
+892,Restaurant_892,Bakery,Mumbai,4.2
+893,Restaurant_893,NORTH INDIAN,Pune,2.9
+894,Restaurant_894,Cafe,Ahmedabad,3.1
+895,Restaurant_895,Bakery,Chennai,3.6
+896,Restaurant_896,Biryani,Chennai,3.7
+897,Restaurant_897,Cafe,Chennai,
+898,Restaurant_898,Chinese,Chennai,3.4
+899,Restaurant_899,Fast Food,Chennai,2.8
+900,Restaurant_900,Bakery,Hyderabad,4.0
+901,Restaurant_901,Biryani,Ahmedabad,3.1
+902,Restaurant_902,Cafe,Kolkata,
+903,Restaurant_903,North Indian,Hyderabad,4.2
+904,Restaurant_904,Chinese,Mumbai,3.2
+905,Restaurant_905,Chinese,Pune,4.8
+906,Restaurant_906,Bakery,Delhi,
+907,Restaurant_907,South Indian,Ahmedabad,3.6
+908,Restaurant_908,Fast Food,Ahmedabad,3.9
+909,Restaurant_909,Fast Food,Kolkata,3.9
+910,Restaurant_910,Fast Food,Ahmedabad,3.4
+911,Restaurant_911,North Indian,Bengaluru,3.3
+912,Restaurant_912,Cafe,Pune,3.7
+913,Restaurant_913,Cafe,Delhi,3.9
+914,Restaurant_914,Cafe,Hyderabad,2.6
+915,Restaurant_915,Biryani,Bengaluru,
+916,Restaurant_916,North Indian,Mumbai,3.9
+917,Restaurant_917,North Indian,Delhi,2.9
+918,Restaurant_918,Bakery,Pune,4.2
+919,Restaurant_919,Biryani,Delhi,3.7
+920,Restaurant_920,Biryani,Bengaluru,3.2
+921,Restaurant_921,Cafe,Chennai,4.3
+922,Restaurant_922,Bakery,Delhi,4.0
+923,Restaurant_923,Fast Food,Delhi,3.5
+924,Restaurant_924,Fast Food,Pune,4.6
+925,Restaurant_925,Fast Food,Jaipur,4.4
+926,Restaurant_926,Bakery,Hyderabad,4.7
+927,Restaurant_927,Chinese,Ahmedabad,4.3
+928,Restaurant_928,South Indian,Kolkata,
+929,Restaurant_929,Chinese,Ahmedabad,3.2
+930,Restaurant_930,Bakery,Pune,4.4
+931,Restaurant_931,North Indian,Delhi,4.6
+932,Restaurant_932,Fast Food,Pune,3.1
+933,Restaurant_933,Chinese,Chennai,3.8
+934,Restaurant_934,North Indian,Jaipur,3.5
+935,Restaurant_935,BIRYANI,Pune,4.8
+936,Restaurant_936,North Indian,Jaipur,4.4
+937,Restaurant_937,South Indian,Mumbai,2.9
+938,Restaurant_938,Cafe,Hyderabad,3.5
+939,Restaurant_939,Biryani,Ahmedabad,3.3
+940,Restaurant_940,Cafe,Jaipur,
+941,Restaurant_941,CHINESE,Chennai,2.7
+942,Restaurant_942,North Indian,Bengaluru,4.1
+943,Restaurant_943,Cafe,Kolkata,3.9
+944,Restaurant_944,Bakery,Hyderabad,4.3
+945,Restaurant_945,North Indian,Pune,4.4
+946,Restaurant_946,Bakery,Bengaluru,3.5
+947,Restaurant_947,Chinese,Pune,2.6
+948,Restaurant_948,NORTH INDIAN,Kolkata,4.3
+949,Restaurant_949,Fast Food,Mumbai,3.9
+950,Restaurant_950,Biryani,Delhi,3.9
+951,Restaurant_951,North Indian,Hyderabad,3.6
+952,Restaurant_952,Cafe,Delhi,4.5
+953,Restaurant_953,Biryani,Kolkata,4.1
+954,Restaurant_954,South Indian,Ahmedabad,4.4
+955,Restaurant_955,North Indian,Kolkata,4.8
+956,Restaurant_956,Cafe,Mumbai,4.4
+957,Restaurant_957,South Indian,Hyderabad,3.7
+958,Restaurant_958,Cafe,Chennai,4.0
+959,Restaurant_959,Biryani,Kolkata,2.9
+960,Restaurant_960,South Indian,Chennai,4.7
+961,Restaurant_961,Fast Food,Ahmedabad,3.5
+962,Restaurant_962,Biryani,Chennai,4.2
+963,Restaurant_963,Bakery,Delhi,3.2
+964,Restaurant_964,North Indian,Hyderabad,3.2
+965,Restaurant_965,Cafe,Bengaluru,4.9
+966,Restaurant_966,Fast Food,Ahmedabad,4.5
+967,Restaurant_967,Biryani,Ahmedabad,3.0
+968,Restaurant_968,South Indian,Pune,4.2
+969,Restaurant_969,North Indian,Bengaluru,2.6
+970,Restaurant_970,Biryani,Ahmedabad,3.6
+971,Restaurant_971,NORTH INDIAN,Jaipur,
+972,Restaurant_972,North Indian,Kolkata,4.9
+973,Restaurant_973,BIRYANI,Delhi,3.0
+974,Restaurant_974,Chinese,Hyderabad,4.7
+975,Restaurant_975,Bakery,Ahmedabad,4.7
+976,Restaurant_976,South Indian,Mumbai,4.2
+977,Restaurant_977,Biryani,Mumbai,4.4
+978,Restaurant_978,South Indian,Jaipur,2.6
+979,Restaurant_979,Biryani,Ahmedabad,4.7
+980,Restaurant_980,Fast Food,Kolkata,3.9
+981,Restaurant_981,Bakery,Jaipur,3.6
+982,Restaurant_982,Chinese,Chennai,3.0
+983,Restaurant_983,Biryani,Bengaluru,3.5
+984,Restaurant_984,Biryani,Kolkata,3.0
+985,Restaurant_985,Fast Food,Chennai,
+986,Restaurant_986,Fast Food,Kolkata,3.7
+987,Restaurant_987,South Indian,Mumbai,3.3
+988,Restaurant_988,Cafe,Bengaluru,2.5
+989,Restaurant_989,CAFE,Jaipur,4.3
+990,Restaurant_990,Biryani,Delhi,3.0
+991,Restaurant_991,North Indian,Chennai,3.5
+992,Restaurant_992,Chinese,Chennai,3.2
+993,Restaurant_993,South Indian,Kolkata,
+994,Restaurant_994,Chinese,Kolkata,4.0
+995,Restaurant_995,BAKERY,Hyderabad,4.6
+996,Restaurant_996,Biryani,Mumbai,2.5
+997,Restaurant_997,Biryani,Delhi,3.0
+998,Restaurant_998,Cafe,Jaipur,
+999,Restaurant_999,Cafe,Bengaluru,3.0
+1000,Restaurant_1000,Bakery,Chennai,4.3
+1001,Restaurant_1001,South Indian,Ahmedabad,3.6
+1002,Restaurant_1002,North Indian,Hyderabad,3.3
+1003,Restaurant_1003,Fast Food,Hyderabad,3.1
+1004,Restaurant_1004,Fast Food,Bengaluru,4.3
+1005,Restaurant_1005,Chinese,Bengaluru,3.4
+1006,Restaurant_1006,Fast Food,Kolkata,3.4
+1007,Restaurant_1007,South Indian,Ahmedabad,4.0
+1008,Restaurant_1008,Chinese,Mumbai,3.9
+1009,Restaurant_1009,Biryani,Bengaluru,2.6
+1010,Restaurant_1010,Cafe,Ahmedabad,4.2
+1011,Restaurant_1011,Bakery,Bengaluru,3.4
+1012,Restaurant_1012,Chinese,Chennai,4.6
+1013,Restaurant_1013,South Indian,Chennai,4.7
+1014,Restaurant_1014,Biryani,Hyderabad,3.3
+1015,Restaurant_1015,North Indian,Chennai,3.5
+1016,Restaurant_1016,South Indian,Kolkata,2.7
+1017,Restaurant_1017,Fast Food,Mumbai,4.1
+1018,Restaurant_1018,South Indian,Bengaluru,4.8
+1019,Restaurant_1019,Cafe,Pune,4.8
+1020,Restaurant_1020,Bakery,Delhi,2.6
+1021,Restaurant_1021,Bakery,Chennai,3.7
+1022,Restaurant_1022,CHINESE,Kolkata,3.8
+1023,Restaurant_1023,Cafe,Jaipur,3.3
+1024,Restaurant_1024,South Indian,Delhi,3.7
+1025,Restaurant_1025,Chinese,Mumbai,3.3
+1026,Restaurant_1026,Cafe,Kolkata,4.4
+1027,Restaurant_1027,Biryani,Chennai,2.5
+1028,Restaurant_1028,Chinese,Mumbai,4.7
+1029,Restaurant_1029,Cafe,Ahmedabad,2.9
+1030,Restaurant_1030,Biryani,Mumbai,4.1
+1031,Restaurant_1031,Bakery,Hyderabad,3.0
+1032,Restaurant_1032,Biryani,Bengaluru,2.7
+1033,Restaurant_1033,North Indian,Mumbai,3.7
+1034,Restaurant_1034,South Indian,Jaipur,4.8
+1035,Restaurant_1035,Chinese,Hyderabad,4.4
+1036,Restaurant_1036,Biryani,Delhi,
+1037,Restaurant_1037,Fast Food,Mumbai,2.6
+1038,Restaurant_1038,Chinese,Kolkata,2.6
+1039,Restaurant_1039,North Indian,Chennai,4.4
+1040,Restaurant_1040,Cafe,Bengaluru,2.6
+1041,Restaurant_1041,North Indian,Jaipur,4.8
+1042,Restaurant_1042,Cafe,Hyderabad,4.6
+1043,Restaurant_1043,South Indian,Bengaluru,3.3
+1044,Restaurant_1044,Cafe,Ahmedabad,4.6
+1045,Restaurant_1045,Fast Food,Hyderabad,3.4
+1046,Restaurant_1046,Bakery,Bengaluru,4.2
+1047,Restaurant_1047,Fast Food,Kolkata,2.9
+1048,Restaurant_1048,Chinese,Pune,4.6
+1049,Restaurant_1049,Biryani,Kolkata,3.5
+1050,Restaurant_1050,Biryani,Pune,3.2
+1051,Restaurant_1051,Fast Food,Jaipur,3.4
+1052,Restaurant_1052,South Indian,Chennai,4.3
+1053,Restaurant_1053,Bakery,Hyderabad,
+1054,Restaurant_1054,CAFE,Jaipur,4.6
+1055,Restaurant_1055,BIRYANI,Chennai,2.7
+1056,Restaurant_1056,North Indian,Delhi,3.0
+1057,Restaurant_1057,CAFE,Mumbai,4.4
+1058,Restaurant_1058,Cafe,Jaipur,4.3
+1059,Restaurant_1059,Fast Food,Mumbai,3.3
+1060,Restaurant_1060,Chinese,Delhi,4.2
+1061,Restaurant_1061,North Indian,Chennai,4.2
+1062,Restaurant_1062,North Indian,Hyderabad,3.4
+1063,Restaurant_1063,South Indian,Pune,2.9
+1064,Restaurant_1064,Fast Food,Jaipur,4.7
+1065,Restaurant_1065,FAST FOOD,Ahmedabad,3.0
+1066,Restaurant_1066,Biryani,Ahmedabad,4.0
+1067,Restaurant_1067,Bakery,Jaipur,2.5
+1068,Restaurant_1068,Biryani,Pune,4.3
+1069,Restaurant_1069,North Indian,Ahmedabad,4.4
+1070,Restaurant_1070,CHINESE,Mumbai,3.9
+1071,Restaurant_1071,South Indian,Delhi,2.8
+1072,Restaurant_1072,Fast Food,Ahmedabad,
+1073,Restaurant_1073,South Indian,Delhi,4.0
+1074,Restaurant_1074,North Indian,Chennai,2.6
+1075,Restaurant_1075,CAFE,Pune,3.8
+1076,Restaurant_1076,Biryani,Kolkata,3.3
+1077,Restaurant_1077,Cafe,Kolkata,4.4
+1078,Restaurant_1078,Biryani,Jaipur,3.5
+1079,Restaurant_1079,Bakery,Mumbai,3.6
+1080,Restaurant_1080,Cafe,Pune,2.9
+1081,Restaurant_1081,Bakery,Mumbai,
+1082,Restaurant_1082,North Indian,Mumbai,4.6
+1083,Restaurant_1083,Fast Food,Ahmedabad,2.8
+1084,Restaurant_1084,South Indian,Ahmedabad,3.4
+1085,Restaurant_1085,Chinese,Ahmedabad,3.0
+1086,Restaurant_1086,Chinese,Kolkata,4.7
+1087,Restaurant_1087,Biryani,Mumbai,4.6
+1088,Restaurant_1088,Chinese,Jaipur,2.7
+1089,Restaurant_1089,Bakery,Chennai,3.4
+1090,Restaurant_1090,Bakery,Pune,3.0
+1091,Restaurant_1091,North Indian,Bengaluru,4.7
+1092,Restaurant_1092,Biryani,Delhi,3.2
+1093,Restaurant_1093,Chinese,Delhi,3.4
+1094,Restaurant_1094,South Indian,Hyderabad,4.3
+1095,Restaurant_1095,North Indian,Hyderabad,2.7
+1096,Restaurant_1096,Chinese,Mumbai,3.6
+1097,Restaurant_1097,Cafe,Mumbai,
+1098,Restaurant_1098,Fast Food,Delhi,4.6
+1099,Restaurant_1099,Fast Food,Hyderabad,3.7
+1100,Restaurant_1100,Biryani,Bengaluru,
+1101,Restaurant_1101,Bakery,Jaipur,
+1102,Restaurant_1102,Bakery,Mumbai,4.5
+1103,Restaurant_1103,Cafe,Mumbai,4.7
+1104,Restaurant_1104,Biryani,Jaipur,4.3
+1105,Restaurant_1105,Biryani,Chennai,4.1
+1106,Restaurant_1106,Cafe,Jaipur,3.1
+1107,Restaurant_1107,Fast Food,Jaipur,3.3
+1108,Restaurant_1108,Biryani,Chennai,4.3
+1109,Restaurant_1109,Bakery,Ahmedabad,4.4
+1110,Restaurant_1110,Chinese,Delhi,4.8
+1111,Restaurant_1111,South Indian,Delhi,4.2
+1112,Restaurant_1112,Cafe,Mumbai,3.9
+1113,Restaurant_1113,Bakery,Chennai,4.2
+1114,Restaurant_1114,North Indian,Ahmedabad,4.9
+1115,Restaurant_1115,South Indian,Kolkata,3.1
+1116,Restaurant_1116,Cafe,Hyderabad,2.9
+1117,Restaurant_1117,North Indian,Kolkata,2.8
+1118,Restaurant_1118,Bakery,Ahmedabad,2.6
+1119,Restaurant_1119,South Indian,Jaipur,4.4
+1120,Restaurant_1120,Biryani,Pune,3.7
+1121,Restaurant_1121,Cafe,Chennai,3.8
+1122,Restaurant_1122,South Indian,Delhi,2.5
+1123,Restaurant_1123,Cafe,Chennai,4.8
+1124,Restaurant_1124,North Indian,Ahmedabad,4.7
+1125,Restaurant_1125,North Indian,Hyderabad,3.8
+1126,Restaurant_1126,North Indian,Pune,2.6
+1127,Restaurant_1127,South Indian,Jaipur,3.8
+1128,Restaurant_1128,Bakery,Kolkata,2.9
+1129,Restaurant_1129,Cafe,Kolkata,3.6
+1130,Restaurant_1130,North Indian,Mumbai,2.6
+1131,Restaurant_1131,Bakery,Ahmedabad,4.2
+1132,Restaurant_1132,North Indian,Ahmedabad,3.0
+1133,Restaurant_1133,Biryani,Jaipur,3.0
+1134,Restaurant_1134,Bakery,Bengaluru,4.2
+1135,Restaurant_1135,NORTH INDIAN,Chennai,2.6
+1136,Restaurant_1136,Bakery,Kolkata,4.7
+1137,Restaurant_1137,South Indian,Mumbai,4.0
+1138,Restaurant_1138,Bakery,Kolkata,2.7
+1139,Restaurant_1139,Chinese,Jaipur,4.4
+1140,Restaurant_1140,North Indian,Mumbai,4.5
+1141,Restaurant_1141,Chinese,Chennai,4.0
+1142,Restaurant_1142,Cafe,Chennai,4.6
+1143,Restaurant_1143,Bakery,Chennai,
+1144,Restaurant_1144,Bakery,Hyderabad,4.1
+1145,Restaurant_1145,Bakery,Hyderabad,4.4
+1146,Restaurant_1146,Fast Food,Mumbai,3.1
+1147,Restaurant_1147,Biryani,Delhi,3.7
+1148,Restaurant_1148,North Indian,Bengaluru,2.6
+1149,Restaurant_1149,Bakery,Mumbai,4.6
+1150,Restaurant_1150,Chinese,Mumbai,4.3
+1151,Restaurant_1151,Biryani,Mumbai,3.8
+1152,Restaurant_1152,SOUTH INDIAN,Ahmedabad,
+1153,Restaurant_1153,Bakery,Hyderabad,4.0
+1154,Restaurant_1154,Biryani,Delhi,2.9
+1155,Restaurant_1155,Chinese,Mumbai,3.2
+1156,Restaurant_1156,Cafe,Chennai,2.9
+1157,Restaurant_1157,South Indian,Jaipur,4.0
+1158,Restaurant_1158,North Indian,Ahmedabad,3.1
+1159,Restaurant_1159,Bakery,Bengaluru,3.1
+1160,Restaurant_1160,Bakery,Ahmedabad,4.5
+1161,Restaurant_1161,CHINESE,Mumbai,4.6
+1162,Restaurant_1162,South Indian,Mumbai,4.3
+1163,Restaurant_1163,Biryani,Hyderabad,3.1
+1164,Restaurant_1164,Cafe,Hyderabad,4.4
+1165,Restaurant_1165,Fast Food,Bengaluru,
+1166,Restaurant_1166,Bakery,Kolkata,2.7
+1167,Restaurant_1167,Biryani,Hyderabad,4.7
+1168,Restaurant_1168,North Indian,Kolkata,3.9
+1169,Restaurant_1169,Fast Food,Kolkata,3.1
+1170,Restaurant_1170,South Indian,Mumbai,3.0
+1171,Restaurant_1171,Biryani,Kolkata,2.8
+1172,Restaurant_1172,Bakery,Kolkata,4.0
+1173,Restaurant_1173,BIRYANI,Delhi,4.9
+1174,Restaurant_1174,Fast Food,Chennai,3.5
+1175,Restaurant_1175,Fast Food,Mumbai,3.1
+1176,Restaurant_1176,Cafe,Pune,4.7
+1177,Restaurant_1177,South Indian,Delhi,
+1178,Restaurant_1178,Bakery,Mumbai,4.2
+1179,Restaurant_1179,Biryani,Delhi,2.9
+1180,Restaurant_1180,North Indian,Chennai,3.8
+1181,Restaurant_1181,Bakery,Kolkata,4.7
+1182,Restaurant_1182,Biryani,Jaipur,3.1
+1183,Restaurant_1183,Biryani,Pune,2.9
+1184,Restaurant_1184,Biryani,Bengaluru,2.8
+1185,Restaurant_1185,Biryani,Chennai,3.7
+1186,Restaurant_1186,Biryani,Mumbai,3.8
+1187,Restaurant_1187,North Indian,Chennai,4.8
+1188,Restaurant_1188,Biryani,Mumbai,3.5
+1189,Restaurant_1189,Cafe,Kolkata,4.0
+1190,Restaurant_1190,South Indian,Hyderabad,4.8
+1191,Restaurant_1191,Chinese,Mumbai,3.8
+1192,Restaurant_1192,Fast Food,Ahmedabad,2.9
+1193,Restaurant_1193,Bakery,Jaipur,4.1
+1194,Restaurant_1194,Bakery,Kolkata,3.1
+1195,Restaurant_1195,CAFE,Kolkata,3.0
+1196,Restaurant_1196,Bakery,Chennai,
+1197,Restaurant_1197,Biryani,Ahmedabad,3.0
+1198,Restaurant_1198,Cafe,Chennai,4.4
+1199,Restaurant_1199,North Indian,Mumbai,4.5
+1200,Restaurant_1200,North Indian,Bengaluru,3.6
+1201,Restaurant_1201,Biryani,Kolkata,2.8
+1202,Restaurant_1202,Bakery,Delhi,4.3
+1203,Restaurant_1203,South Indian,Kolkata,3.3
+1204,Restaurant_1204,Fast Food,Mumbai,2.5
+1205,Restaurant_1205,North Indian,Chennai,3.3
+1206,Restaurant_1206,Fast Food,Chennai,3.6
+1207,Restaurant_1207,Chinese,Mumbai,
+1208,Restaurant_1208,Bakery,Jaipur,2.8
+1209,Restaurant_1209,North Indian,Bengaluru,4.6
+1210,Restaurant_1210,North Indian,Delhi,2.5
+1211,Restaurant_1211,Cafe,Mumbai,3.9
+1212,Restaurant_1212,Cafe,Bengaluru,4.2
+1213,Restaurant_1213,North Indian,Mumbai,3.9
+1214,Restaurant_1214,South Indian,Chennai,3.6
+1215,Restaurant_1215,NORTH INDIAN,Chennai,
+1216,Restaurant_1216,Bakery,Pune,3.7
+1217,Restaurant_1217,North Indian,Ahmedabad,3.4
+1218,Restaurant_1218,Chinese,Delhi,4.7
+1219,Restaurant_1219,North Indian,Chennai,
+1220,Restaurant_1220,Cafe,Hyderabad,4.9
+1221,Restaurant_1221,Cafe,Mumbai,2.8
+1222,Restaurant_1222,North Indian,Delhi,3.9
+1223,Restaurant_1223,North Indian,Mumbai,4.1
+1224,Restaurant_1224,North Indian,Hyderabad,3.1
+1225,Restaurant_1225,North Indian,Chennai,3.8
+1226,Restaurant_1226,Fast Food,Bengaluru,2.5
+1227,Restaurant_1227,Chinese,Bengaluru,4.7
+1228,Restaurant_1228,Bakery,Jaipur,2.8
+1229,Restaurant_1229,Bakery,Jaipur,4.7
+1230,Restaurant_1230,Fast Food,Mumbai,2.7
+1231,Restaurant_1231,Bakery,Jaipur,3.6
+1232,Restaurant_1232,Chinese,Kolkata,4.0
+1233,Restaurant_1233,Chinese,Hyderabad,2.5
+1234,Restaurant_1234,Biryani,Chennai,3.5
+1235,Restaurant_1235,Chinese,Pune,4.4
+1236,Restaurant_1236,Fast Food,Bengaluru,4.7
+1237,Restaurant_1237,Biryani,Hyderabad,4.6
+1238,Restaurant_1238,Bakery,Jaipur,3.1
+1239,Restaurant_1239,Biryani,Chennai,3.6
+1240,Restaurant_1240,South Indian,Chennai,2.7
+1241,Restaurant_1241,South Indian,Delhi,2.9
+1242,Restaurant_1242,Biryani,Bengaluru,4.0
+1243,Restaurant_1243,Biryani,Ahmedabad,4.0
+1244,Restaurant_1244,Chinese,Pune,2.5
+1245,Restaurant_1245,Biryani,Jaipur,3.2
+1246,Restaurant_1246,Biryani,Chennai,4.8
+1247,Restaurant_1247,Biryani,Bengaluru,3.2
+1248,Restaurant_1248,BAKERY,Delhi,4.7
+1249,Restaurant_1249,North Indian,Bengaluru,
+1250,Restaurant_1250,South Indian,Hyderabad,4.0
+1251,Restaurant_1251,Bakery,Hyderabad,
+1252,Restaurant_1252,Fast Food,Jaipur,3.0
+1253,Restaurant_1253,Cafe,Pune,4.2
+1254,Restaurant_1254,Chinese,Chennai,3.3
+1255,Restaurant_1255,Bakery,Delhi,4.0
+1256,Restaurant_1256,Cafe,Jaipur,3.4
+1257,Restaurant_1257,SOUTH INDIAN,Bengaluru,3.3
+1258,Restaurant_1258,Fast Food,Kolkata,4.0
+1259,Restaurant_1259,Biryani,Ahmedabad,4.1
+1260,Restaurant_1260,Chinese,Hyderabad,4.8
+1261,Restaurant_1261,South Indian,Chennai,2.9
+1262,Restaurant_1262,North Indian,Bengaluru,4.6
+1263,Restaurant_1263,Fast Food,Hyderabad,2.7
+1264,Restaurant_1264,CHINESE,Bengaluru,4.6
+1265,Restaurant_1265,North Indian,Delhi,4.2
+1266,Restaurant_1266,South Indian,Bengaluru,3.0
+1267,Restaurant_1267,Biryani,Kolkata,3.4
+1268,Restaurant_1268,Bakery,Ahmedabad,3.2
+1269,Restaurant_1269,South Indian,Ahmedabad,
+1270,Restaurant_1270,North Indian,Pune,3.0
+1271,Restaurant_1271,South Indian,Jaipur,4.4
+1272,Restaurant_1272,North Indian,Mumbai,3.7
+1273,Restaurant_1273,North Indian,Mumbai,4.5
+1274,Restaurant_1274,North Indian,Ahmedabad,4.3
+1275,Restaurant_1275,South Indian,Pune,3.2
+1276,Restaurant_1276,Bakery,Hyderabad,2.7
+1277,Restaurant_1277,BAKERY,Pune,2.7
+1278,Restaurant_1278,Cafe,Pune,
+1279,Restaurant_1279,Biryani,Bengaluru,4.1
+1280,Restaurant_1280,South Indian,Chennai,3.2
+1281,Restaurant_1281,South Indian,Kolkata,4.7
+1282,Restaurant_1282,Cafe,Chennai,4.6
+1283,Restaurant_1283,Fast Food,Pune,3.6
+1284,Restaurant_1284,Bakery,Pune,4.6
+1285,Restaurant_1285,Chinese,Bengaluru,2.8
+1286,Restaurant_1286,Fast Food,Hyderabad,4.7
+1287,Restaurant_1287,South Indian,Chennai,4.2
+1288,Restaurant_1288,Biryani,Hyderabad,4.2
+1289,Restaurant_1289,Bakery,Ahmedabad,2.7
+1290,Restaurant_1290,Cafe,Jaipur,
+1291,Restaurant_1291,North Indian,Kolkata,4.5
+1292,Restaurant_1292,Biryani,Delhi,3.1
+1293,Restaurant_1293,SOUTH INDIAN,Kolkata,3.5
+1294,Restaurant_1294,Biryani,Hyderabad,3.4
+1295,Restaurant_1295,CAFE,Chennai,4.8
+1296,Restaurant_1296,South Indian,Delhi,3.2
+1297,Restaurant_1297,Fast Food,Bengaluru,3.2
+1298,Restaurant_1298,Biryani,Ahmedabad,4.6
+1299,Restaurant_1299,Biryani,Jaipur,4.9
+1300,Restaurant_1300,Chinese,Bengaluru,3.3
+1301,Restaurant_1301,South Indian,Pune,3.6
+1302,Restaurant_1302,Chinese,Ahmedabad,4.7
+1303,Restaurant_1303,Chinese,Chennai,4.6
+1304,Restaurant_1304,Biryani,Pune,4.7
+1305,Restaurant_1305,Biryani,Delhi,4.4
+1306,Restaurant_1306,North Indian,Pune,2.7
+1307,Restaurant_1307,Bakery,Kolkata,4.7
+1308,Restaurant_1308,South Indian,Kolkata,4.3
+1309,Restaurant_1309,Fast Food,Pune,3.8
+1310,Restaurant_1310,South Indian,Jaipur,4.7
+1311,Restaurant_1311,Biryani,Hyderabad,4.6
+1312,Restaurant_1312,Fast Food,Pune,
+1313,Restaurant_1313,Bakery,Chennai,2.9
+1314,Restaurant_1314,South Indian,Mumbai,4.5
+1315,Restaurant_1315,FAST FOOD,Hyderabad,2.6
+1316,Restaurant_1316,Cafe,Jaipur,4.3
+1317,Restaurant_1317,North Indian,Chennai,4.8
+1318,Restaurant_1318,Chinese,Ahmedabad,2.6
+1319,Restaurant_1319,Bakery,Ahmedabad,4.4
+1320,Restaurant_1320,Bakery,Mumbai,4.5
+1321,Restaurant_1321,Biryani,Kolkata,2.6
+1322,Restaurant_1322,Biryani,Chennai,2.7
+1323,Restaurant_1323,South Indian,Pune,3.2
+1324,Restaurant_1324,South Indian,Ahmedabad,4.6
+1325,Restaurant_1325,Biryani,Hyderabad,3.8
+1326,Restaurant_1326,Chinese,Mumbai,
+1327,Restaurant_1327,North Indian,Jaipur,2.6
+1328,Restaurant_1328,CHINESE,Hyderabad,4.0
+1329,Restaurant_1329,Cafe,Chennai,4.6
+1330,Restaurant_1330,Bakery,Chennai,3.5
+1331,Restaurant_1331,Cafe,Jaipur,4.0
+1332,Restaurant_1332,Fast Food,Chennai,
+1333,Restaurant_1333,North Indian,Hyderabad,3.9
+1334,Restaurant_1334,Cafe,Jaipur,3.1
+1335,Restaurant_1335,South Indian,Mumbai,2.6
+1336,Restaurant_1336,Cafe,Pune,3.3
+1337,Restaurant_1337,Biryani,Jaipur,4.8
+1338,Restaurant_1338,North Indian,Ahmedabad,4.6
+1339,Restaurant_1339,Biryani,Delhi,4.4
+1340,Restaurant_1340,Cafe,Bengaluru,2.7
+1341,Restaurant_1341,South Indian,Hyderabad,4.3
+1342,Restaurant_1342,Fast Food,Ahmedabad,2.8
+1343,Restaurant_1343,Cafe,Chennai,3.6
+1344,Restaurant_1344,Fast Food,Chennai,2.6
+1345,Restaurant_1345,Biryani,Kolkata,3.8
+1346,Restaurant_1346,Bakery,Pune,2.8
+1347,Restaurant_1347,Cafe,Chennai,4.6
+1348,Restaurant_1348,North Indian,Chennai,3.7
+1349,Restaurant_1349,South Indian,Jaipur,2.7
+1350,Restaurant_1350,Fast Food,Ahmedabad,3.9
+1351,Restaurant_1351,North Indian,Delhi,4.6
+1352,Restaurant_1352,Chinese,Ahmedabad,4.2
+1353,Restaurant_1353,Biryani,Jaipur,2.6
+1354,Restaurant_1354,Chinese,Hyderabad,3.1
+1355,Restaurant_1355,Biryani,Jaipur,3.1
+1356,Restaurant_1356,Cafe,Delhi,4.9
+1357,Restaurant_1357,South Indian,Mumbai,2.7
+1358,Restaurant_1358,FAST FOOD,Ahmedabad,4.9
+1359,Restaurant_1359,Chinese,Hyderabad,4.1
+1360,Restaurant_1360,Chinese,Pune,2.7
+1361,Restaurant_1361,South Indian,Hyderabad,3.5
+1362,Restaurant_1362,Biryani,Pune,3.6
+1363,Restaurant_1363,North Indian,Chennai,4.3
+1364,Restaurant_1364,Bakery,Bengaluru,3.8
+1365,Restaurant_1365,Cafe,Mumbai,4.8
+1366,Restaurant_1366,Fast Food,Mumbai,4.0
+1367,Restaurant_1367,Bakery,Chennai,3.9
+1368,Restaurant_1368,Biryani,Delhi,3.3
+1369,Restaurant_1369,Biryani,Kolkata,
+1370,Restaurant_1370,Biryani,Pune,4.8
+1371,Restaurant_1371,Chinese,Hyderabad,4.0
+1372,Restaurant_1372,Fast Food,Ahmedabad,3.8
+1373,Restaurant_1373,Biryani,Mumbai,4.2
+1374,Restaurant_1374,South Indian,Chennai,2.8
+1375,Restaurant_1375,Biryani,Bengaluru,3.9
+1376,Restaurant_1376,Chinese,Ahmedabad,3.1
+1377,Restaurant_1377,Cafe,Mumbai,3.2
+1378,Restaurant_1378,Fast Food,Kolkata,2.7
+1379,Restaurant_1379,Chinese,Bengaluru,2.7
+1380,Restaurant_1380,Fast Food,Bengaluru,4.3
+1381,Restaurant_1381,Bakery,Jaipur,4.9
+1382,Restaurant_1382,Biryani,Jaipur,3.2
+1383,Restaurant_1383,Bakery,Hyderabad,2.9
+1384,Restaurant_1384,Biryani,Ahmedabad,4.6
+1385,Restaurant_1385,South Indian,Pune,4.8
+1386,Restaurant_1386,North Indian,Jaipur,3.9
+1387,Restaurant_1387,CHINESE,Chennai,3.5
+1388,Restaurant_1388,Cafe,Ahmedabad,3.8
+1389,Restaurant_1389,Biryani,Pune,3.1
+1390,Restaurant_1390,Biryani,Pune,3.3
+1391,Restaurant_1391,North Indian,Jaipur,4.3
+1392,Restaurant_1392,Bakery,Kolkata,2.6
+1393,Restaurant_1393,South Indian,Pune,2.7
+1394,Restaurant_1394,South Indian,Pune,3.2
+1395,Restaurant_1395,Cafe,Hyderabad,2.7
+1396,Restaurant_1396,Fast Food,Pune,4.4
+1397,Restaurant_1397,South Indian,Bengaluru,3.8
+1398,Restaurant_1398,North Indian,Pune,3.5
+1399,Restaurant_1399,Fast Food,Mumbai,4.2
+1400,Restaurant_1400,South Indian,Chennai,3.3
+1401,Restaurant_1401,Chinese,Bengaluru,4.8
+1402,Restaurant_1402,Bakery,Jaipur,4.9
+1403,Restaurant_1403,Bakery,Hyderabad,3.9
+1404,Restaurant_1404,North Indian,Kolkata,3.9
+1405,Restaurant_1405,Biryani,Hyderabad,3.4
+1406,Restaurant_1406,Chinese,Ahmedabad,4.4
+1407,Restaurant_1407,Cafe,Delhi,4.5
+1408,Restaurant_1408,Bakery,Kolkata,3.2
+1409,Restaurant_1409,Biryani,Pune,3.5
+1410,Restaurant_1410,Chinese,Bengaluru,4.5
+1411,Restaurant_1411,Bakery,Ahmedabad,4.1
+1412,Restaurant_1412,Chinese,Mumbai,4.8
+1413,Restaurant_1413,Cafe,Bengaluru,3.3
+1414,Restaurant_1414,Chinese,Ahmedabad,3.3
+1415,Restaurant_1415,Chinese,Hyderabad,4.3
+1416,Restaurant_1416,SOUTH INDIAN,Delhi,2.9
+1417,Restaurant_1417,BIRYANI,Chennai,3.5
+1418,Restaurant_1418,Bakery,Mumbai,3.3
+1419,Restaurant_1419,Cafe,Hyderabad,2.5
+1420,Restaurant_1420,South Indian,Pune,4.3
+1421,Restaurant_1421,Chinese,Mumbai,
+1422,Restaurant_1422,Fast Food,Kolkata,4.1
+1423,Restaurant_1423,South Indian,Delhi,3.7
+1424,Restaurant_1424,South Indian,Bengaluru,4.1
+1425,Restaurant_1425,North Indian,Bengaluru,4.8
+1426,Restaurant_1426,Biryani,Hyderabad,2.9
+1427,Restaurant_1427,South Indian,Kolkata,4.6
+1428,Restaurant_1428,South Indian,Ahmedabad,2.5
+1429,Restaurant_1429,South Indian,Mumbai,3.9
+1430,Restaurant_1430,Bakery,Kolkata,4.5
+1431,Restaurant_1431,Chinese,Pune,
+1432,Restaurant_1432,Cafe,Chennai,4.4
+1433,Restaurant_1433,Bakery,Jaipur,3.1
+1434,Restaurant_1434,Cafe,Delhi,4.6
+1435,Restaurant_1435,Bakery,Jaipur,4.1
+1436,Restaurant_1436,Biryani,Bengaluru,3.1
+1437,Restaurant_1437,Biryani,Chennai,2.8
+1438,Restaurant_1438,Biryani,Delhi,3.0
+1439,Restaurant_1439,North Indian,Kolkata,4.1
+1440,Restaurant_1440,South Indian,Pune,3.6
+1441,Restaurant_1441,Fast Food,Bengaluru,
+1442,Restaurant_1442,North Indian,Mumbai,3.7
+1443,Restaurant_1443,BAKERY,Delhi,2.8
+1444,Restaurant_1444,Cafe,Delhi,2.7
+1445,Restaurant_1445,Chinese,Mumbai,4.7
+1446,Restaurant_1446,Biryani,Ahmedabad,3.7
+1447,Restaurant_1447,Chinese,Bengaluru,4.7
+1448,Restaurant_1448,North Indian,Bengaluru,4.1
+1449,Restaurant_1449,South Indian,Pune,
+1450,Restaurant_1450,Bakery,Kolkata,4.1
+1451,Restaurant_1451,North Indian,Kolkata,2.8
+1452,Restaurant_1452,Biryani,Pune,3.2
+1453,Restaurant_1453,SOUTH INDIAN,Bengaluru,3.7
+1454,Restaurant_1454,Biryani,Bengaluru,4.5
+1455,Restaurant_1455,Cafe,Kolkata,4.6
+1456,Restaurant_1456,South Indian,Ahmedabad,2.7
+1457,Restaurant_1457,Cafe,Chennai,4.6
+1458,Restaurant_1458,Fast Food,Jaipur,3.3
+1459,Restaurant_1459,North Indian,Ahmedabad,2.9
+1460,Restaurant_1460,Cafe,Kolkata,3.1
+1461,Restaurant_1461,North Indian,Chennai,4.4
+1462,Restaurant_1462,NORTH INDIAN,Ahmedabad,2.9
+1463,Restaurant_1463,Bakery,Kolkata,3.0
+1464,Restaurant_1464,Fast Food,Delhi,4.6
+1465,Restaurant_1465,Fast Food,Delhi,4.8
+1466,Restaurant_1466,Biryani,Ahmedabad,3.1
+1467,Restaurant_1467,NORTH INDIAN,Ahmedabad,3.7
+1468,Restaurant_1468,Chinese,Ahmedabad,3.4
+1469,Restaurant_1469,Chinese,Jaipur,4.6
+1470,Restaurant_1470,Fast Food,Pune,2.8
+1471,Restaurant_1471,CAFE,Pune,2.7
+1472,Restaurant_1472,Bakery,Jaipur,3.4
+1473,Restaurant_1473,Bakery,Pune,3.4
+1474,Restaurant_1474,Cafe,Kolkata,4.1
+1475,Restaurant_1475,Biryani,Kolkata,3.0
+1476,Restaurant_1476,Biryani,Mumbai,4.5
+1477,Restaurant_1477,Biryani,Delhi,2.6
+1478,Restaurant_1478,Cafe,Chennai,3.1
+1479,Restaurant_1479,Chinese,Pune,4.7
+1480,Restaurant_1480,Chinese,Ahmedabad,3.7
+1481,Restaurant_1481,Biryani,Jaipur,
+1482,Restaurant_1482,Biryani,Mumbai,3.3
+1483,Restaurant_1483,Bakery,Delhi,3.2
+1484,Restaurant_1484,Biryani,Pune,2.9
+1485,Restaurant_1485,Bakery,Kolkata,3.2
+1486,Restaurant_1486,South Indian,Kolkata,4.7
+1487,Restaurant_1487,North Indian,Jaipur,4.0
+1488,Restaurant_1488,Chinese,Bengaluru,2.6
+1489,Restaurant_1489,Fast Food,Hyderabad,4.3
+1490,Restaurant_1490,Chinese,Ahmedabad,2.9
+1491,Restaurant_1491,Fast Food,Delhi,3.0
+1492,Restaurant_1492,Chinese,Ahmedabad,4.2
+1493,Restaurant_1493,Biryani,Bengaluru,4.1
+1494,Restaurant_1494,Biryani,Chennai,3.1
+1495,Restaurant_1495,Fast Food,Ahmedabad,3.7
+1496,Restaurant_1496,South Indian,Pune,
+1497,Restaurant_1497,Cafe,Pune,3.8
+1498,Restaurant_1498,Biryani,Jaipur,3.1
+1499,Restaurant_1499,Biryani,Pune,2.5
+1500,Restaurant_1500,North Indian,Delhi,
+1501,Restaurant_1501,Cafe,Mumbai,3.5
+1502,Restaurant_1502,Bakery,Bengaluru,3.1
+1503,Restaurant_1503,Biryani,Kolkata,3.2
+1504,Restaurant_1504,Bakery,Hyderabad,2.6
+1505,Restaurant_1505,Fast Food,Bengaluru,4.1
+1506,Restaurant_1506,Chinese,Chennai,3.5
+1507,Restaurant_1507,North Indian,Jaipur,4.1
+1508,Restaurant_1508,Biryani,Delhi,3.5
+1509,Restaurant_1509,Fast Food,Bengaluru,3.3
+1510,Restaurant_1510,Chinese,Mumbai,4.0
+1511,Restaurant_1511,Fast Food,Bengaluru,3.9
+1512,Restaurant_1512,North Indian,Delhi,4.6
+1513,Restaurant_1513,Bakery,Jaipur,2.9
+1514,Restaurant_1514,Bakery,Bengaluru,3.3
+1515,Restaurant_1515,South Indian,Jaipur,4.7
+1516,Restaurant_1516,Biryani,Ahmedabad,3.4
+1517,Restaurant_1517,Chinese,Jaipur,
+1518,Restaurant_1518,Biryani,Bengaluru,3.2
+1519,Restaurant_1519,North Indian,Hyderabad,
+1520,Restaurant_1520,Cafe,Hyderabad,4.2
+1521,Restaurant_1521,South Indian,Kolkata,3.3
+1522,Restaurant_1522,Fast Food,Hyderabad,3.4
+1523,Restaurant_1523,CHINESE,Delhi,4.3
+1524,Restaurant_1524,North Indian,Kolkata,
+1525,Restaurant_1525,North Indian,Chennai,4.0
+1526,Restaurant_1526,CHINESE,Hyderabad,4.8
+1527,Restaurant_1527,Chinese,Mumbai,3.3
+1528,Restaurant_1528,South Indian,Bengaluru,3.3
+1529,Restaurant_1529,Biryani,Delhi,4.1
+1530,Restaurant_1530,Fast Food,Mumbai,4.4
+1531,Restaurant_1531,Biryani,Kolkata,4.8
+1532,Restaurant_1532,Fast Food,Chennai,4.8
+1533,Restaurant_1533,Fast Food,Jaipur,2.6
+1534,Restaurant_1534,North Indian,Mumbai,4.5
+1535,Restaurant_1535,BAKERY,Kolkata,4.1
+1536,Restaurant_1536,Bakery,Delhi,2.6
+1537,Restaurant_1537,Biryani,Delhi,3.7
+1538,Restaurant_1538,Chinese,Chennai,2.9
+1539,Restaurant_1539,North Indian,Pune,4.5
+1540,Restaurant_1540,Fast Food,Mumbai,4.1
+1541,Restaurant_1541,Fast Food,Chennai,3.5
+1542,Restaurant_1542,North Indian,Ahmedabad,3.6
+1543,Restaurant_1543,Fast Food,Delhi,3.1
+1544,Restaurant_1544,Biryani,Jaipur,4.8
+1545,Restaurant_1545,Chinese,Hyderabad,2.9
+1546,Restaurant_1546,Bakery,Jaipur,4.5
+1547,Restaurant_1547,South Indian,Mumbai,4.8
+1548,Restaurant_1548,SOUTH INDIAN,Kolkata,2.7
+1549,Restaurant_1549,Cafe,Bengaluru,2.7
+1550,Restaurant_1550,Chinese,Bengaluru,2.8
+1551,Restaurant_1551,Cafe,Jaipur,3.0
+1552,Restaurant_1552,South Indian,Kolkata,2.9
+1553,Restaurant_1553,Bakery,Pune,3.9
+1554,Restaurant_1554,Fast Food,Mumbai,3.6
+1555,Restaurant_1555,Cafe,Chennai,3.8
+1556,Restaurant_1556,Bakery,Pune,
+1557,Restaurant_1557,Cafe,Jaipur,3.7
+1558,Restaurant_1558,Cafe,Pune,2.8
+1559,Restaurant_1559,Fast Food,Kolkata,3.5
+1560,Restaurant_1560,Cafe,Chennai,3.8
+1561,Restaurant_1561,South Indian,Bengaluru,3.5
+1562,Restaurant_1562,Cafe,Pune,3.6
+1563,Restaurant_1563,North Indian,Jaipur,4.9
+1564,Restaurant_1564,North Indian,Delhi,4.9
+1565,Restaurant_1565,North Indian,Mumbai,3.3
+1566,Restaurant_1566,Biryani,Chennai,4.7
+1567,Restaurant_1567,Fast Food,Ahmedabad,3.2
+1568,Restaurant_1568,BIRYANI,Pune,2.9
+1569,Restaurant_1569,BAKERY,Ahmedabad,3.6
+1570,Restaurant_1570,Fast Food,Jaipur,4.3
+1571,Restaurant_1571,Biryani,Mumbai,3.5
+1572,Restaurant_1572,North Indian,Mumbai,2.9
+1573,Restaurant_1573,Chinese,Bengaluru,3.7
+1574,Restaurant_1574,Biryani,Kolkata,3.9
+1575,Restaurant_1575,Bakery,Ahmedabad,3.7
+1576,Restaurant_1576,Fast Food,Mumbai,4.0
+1577,Restaurant_1577,South Indian,Pune,4.3
+1578,Restaurant_1578,Chinese,Mumbai,4.8
+1579,Restaurant_1579,Bakery,Delhi,3.4
+1580,Restaurant_1580,South Indian,Mumbai,3.1
+1581,Restaurant_1581,South Indian,Delhi,4.1
+1582,Restaurant_1582,Cafe,Jaipur,3.2
+1583,Restaurant_1583,Biryani,Jaipur,3.8
+1584,Restaurant_1584,South Indian,Ahmedabad,2.8
+1585,Restaurant_1585,Chinese,Chennai,4.8
+1586,Restaurant_1586,Fast Food,Ahmedabad,
+1587,Restaurant_1587,Cafe,Ahmedabad,4.4
+1588,Restaurant_1588,Bakery,Delhi,3.0
+1589,Restaurant_1589,Biryani,Ahmedabad,4.1
+1590,Restaurant_1590,North Indian,Mumbai,
+1591,Restaurant_1591,Chinese,Pune,4.1
+1592,Restaurant_1592,Cafe,Jaipur,3.7
+1593,Restaurant_1593,NORTH INDIAN,Jaipur,4.2
+1594,Restaurant_1594,Bakery,Bengaluru,3.4
+1595,Restaurant_1595,Cafe,Ahmedabad,4.1
+1596,Restaurant_1596,South Indian,Kolkata,2.8
+1597,Restaurant_1597,North Indian,Jaipur,4.6
+1598,Restaurant_1598,Biryani,Chennai,4.4
+1599,Restaurant_1599,North Indian,Bengaluru,4.8
+1600,Restaurant_1600,Chinese,Chennai,3.0
+1601,Restaurant_1601,Biryani,Mumbai,3.4
+1602,Restaurant_1602,Chinese,Hyderabad,4.7
+1603,Restaurant_1603,Fast Food,Kolkata,4.6
+1604,Restaurant_1604,Bakery,Jaipur,2.7
+1605,Restaurant_1605,CHINESE,Kolkata,3.7
+1606,Restaurant_1606,North Indian,Pune,3.9
+1607,Restaurant_1607,Fast Food,Mumbai,4.4
+1608,Restaurant_1608,South Indian,Hyderabad,3.1
+1609,Restaurant_1609,Bakery,Jaipur,2.7
+1610,Restaurant_1610,Biryani,Hyderabad,4.5
+1611,Restaurant_1611,Biryani,Ahmedabad,4.1
+1612,Restaurant_1612,South Indian,Pune,2.9
+1613,Restaurant_1613,North Indian,Delhi,3.7
+1614,Restaurant_1614,Fast Food,Kolkata,
+1615,Restaurant_1615,Cafe,Pune,4.0
+1616,Restaurant_1616,South Indian,Mumbai,4.8
+1617,Restaurant_1617,Chinese,Mumbai,4.8
+1618,Restaurant_1618,South Indian,Jaipur,4.0
+1619,Restaurant_1619,Chinese,Ahmedabad,2.5
+1620,Restaurant_1620,Chinese,Delhi,4.4
+1621,Restaurant_1621,South Indian,Mumbai,3.5
+1622,Restaurant_1622,Fast Food,Mumbai,4.2
+1623,Restaurant_1623,SOUTH INDIAN,Ahmedabad,4.3
+1624,Restaurant_1624,Fast Food,Pune,4.2
+1625,Restaurant_1625,Fast Food,Chennai,2.6
+1626,Restaurant_1626,North Indian,Kolkata,2.6
+1627,Restaurant_1627,Cafe,Kolkata,4.7
+1628,Restaurant_1628,Fast Food,Delhi,3.9
+1629,Restaurant_1629,Biryani,Ahmedabad,2.8
+1630,Restaurant_1630,Cafe,Jaipur,4.2
+1631,Restaurant_1631,Biryani,Kolkata,3.6
+1632,Restaurant_1632,Biryani,Jaipur,3.2
+1633,Restaurant_1633,Biryani,Pune,4.4
+1634,Restaurant_1634,North Indian,Ahmedabad,4.5
+1635,Restaurant_1635,Biryani,Hyderabad,3.3
+1636,Restaurant_1636,Bakery,Pune,3.7
+1637,Restaurant_1637,Cafe,Mumbai,4.2
+1638,Restaurant_1638,Chinese,Chennai,4.4
+1639,Restaurant_1639,Fast Food,Hyderabad,
+1640,Restaurant_1640,Chinese,Bengaluru,2.6
+1641,Restaurant_1641,Bakery,Ahmedabad,3.9
+1642,Restaurant_1642,NORTH INDIAN,Mumbai,3.3
+1643,Restaurant_1643,Fast Food,Delhi,
+1644,Restaurant_1644,North Indian,Delhi,2.8
+1645,Restaurant_1645,Fast Food,Kolkata,4.3
+1646,Restaurant_1646,Fast Food,Kolkata,
+1647,Restaurant_1647,Cafe,Mumbai,2.9
+1648,Restaurant_1648,Biryani,Hyderabad,2.6
+1649,Restaurant_1649,Cafe,Bengaluru,2.9
+1650,Restaurant_1650,North Indian,Pune,4.1
+1651,Restaurant_1651,North Indian,Pune,3.4
+1652,Restaurant_1652,Fast Food,Chennai,3.9
+1653,Restaurant_1653,Cafe,Delhi,3.7
+1654,Restaurant_1654,North Indian,Kolkata,4.7
+1655,Restaurant_1655,Cafe,Ahmedabad,2.6
+1656,Restaurant_1656,Cafe,Chennai,2.6
+1657,Restaurant_1657,Bakery,Mumbai,4.1
+1658,Restaurant_1658,Fast Food,Ahmedabad,3.4
+1659,Restaurant_1659,North Indian,Mumbai,2.7
+1660,Restaurant_1660,Cafe,Pune,2.7
+1661,Restaurant_1661,North Indian,Ahmedabad,
+1662,Restaurant_1662,FAST FOOD,Delhi,4.3
+1663,Restaurant_1663,North Indian,Ahmedabad,4.6
+1664,Restaurant_1664,Biryani,Kolkata,3.3
+1665,Restaurant_1665,Biryani,Ahmedabad,3.7
+1666,Restaurant_1666,Chinese,Kolkata,2.6
+1667,Restaurant_1667,North Indian,Delhi,4.1
+1668,Restaurant_1668,South Indian,Jaipur,3.0
+1669,Restaurant_1669,South Indian,Ahmedabad,3.4
+1670,Restaurant_1670,Biryani,Jaipur,
+1671,Restaurant_1671,South Indian,Hyderabad,3.9
+1672,Restaurant_1672,Cafe,Kolkata,4.8
+1673,Restaurant_1673,Fast Food,Ahmedabad,3.9
+1674,Restaurant_1674,South Indian,Jaipur,
+1675,Restaurant_1675,Cafe,Ahmedabad,2.9
+1676,Restaurant_1676,Biryani,Mumbai,4.6
+1677,Restaurant_1677,Fast Food,Bengaluru,3.6
+1678,Restaurant_1678,Cafe,Hyderabad,4.1
+1679,Restaurant_1679,South Indian,Mumbai,4.6
+1680,Restaurant_1680,Cafe,Hyderabad,3.6
+1681,Restaurant_1681,Bakery,Delhi,4.3
+1682,Restaurant_1682,Cafe,Chennai,3.9
+1683,Restaurant_1683,Cafe,Kolkata,2.8
+1684,Restaurant_1684,Chinese,Ahmedabad,
+1685,Restaurant_1685,Cafe,Jaipur,
+1686,Restaurant_1686,North Indian,Jaipur,4.5
+1687,Restaurant_1687,North Indian,Kolkata,4.4
+1688,Restaurant_1688,North Indian,Jaipur,2.7
+1689,Restaurant_1689,Cafe,Pune,
+1690,Restaurant_1690,Cafe,Bengaluru,2.6
+1691,Restaurant_1691,Cafe,Pune,4.6
+1692,Restaurant_1692,Cafe,Pune,3.3
+1693,Restaurant_1693,Chinese,Jaipur,3.0
+1694,Restaurant_1694,South Indian,Mumbai,3.6
+1695,Restaurant_1695,Chinese,Hyderabad,3.1
+1696,Restaurant_1696,South Indian,Ahmedabad,3.8
+1697,Restaurant_1697,North Indian,Chennai,3.7
+1698,Restaurant_1698,South Indian,Delhi,2.9
+1699,Restaurant_1699,Biryani,Jaipur,
+1700,Restaurant_1700,South Indian,Hyderabad,3.5
+1701,Restaurant_1701,South Indian,Mumbai,4.4
+1702,Restaurant_1702,Biryani,Jaipur,
+1703,Restaurant_1703,Cafe,Ahmedabad,3.1
+1704,Restaurant_1704,Chinese,Delhi,4.7
+1705,Restaurant_1705,Fast Food,Jaipur,4.0
+1706,Restaurant_1706,Biryani,Kolkata,4.3
+1707,Restaurant_1707,North Indian,Jaipur,3.2
+1708,Restaurant_1708,Biryani,Ahmedabad,2.5
+1709,Restaurant_1709,North Indian,Hyderabad,3.4
+1710,Restaurant_1710,Bakery,Jaipur,4.9
+1711,Restaurant_1711,Biryani,Mumbai,4.8
+1712,Restaurant_1712,Chinese,Mumbai,3.5
+1713,Restaurant_1713,South Indian,Bengaluru,4.9
+1714,Restaurant_1714,North Indian,Jaipur,2.8
+1715,Restaurant_1715,Bakery,Jaipur,4.3
+1716,Restaurant_1716,Biryani,Ahmedabad,3.0
+1717,Restaurant_1717,Cafe,Mumbai,4.4
+1718,Restaurant_1718,Cafe,Delhi,4.3
+1719,Restaurant_1719,South Indian,Bengaluru,2.8
+1720,Restaurant_1720,South Indian,Bengaluru,4.0
+1721,Restaurant_1721,Chinese,Jaipur,4.6
+1722,Restaurant_1722,Bakery,Ahmedabad,4.5
+1723,Restaurant_1723,Chinese,Delhi,2.8
+1724,Restaurant_1724,South Indian,Pune,4.3
+1725,Restaurant_1725,South Indian,Chennai,
+1726,Restaurant_1726,Fast Food,Bengaluru,4.6
+1727,Restaurant_1727,Bakery,Mumbai,3.5
+1728,Restaurant_1728,Cafe,Pune,4.0
+1729,Restaurant_1729,SOUTH INDIAN,Ahmedabad,2.8
+1730,Restaurant_1730,Fast Food,Ahmedabad,3.0
+1731,Restaurant_1731,South Indian,Mumbai,3.4
+1732,Restaurant_1732,Bakery,Jaipur,4.7
+1733,Restaurant_1733,Chinese,Hyderabad,2.5
+1734,Restaurant_1734,Bakery,Pune,3.8
+1735,Restaurant_1735,North Indian,Hyderabad,4.5
+1736,Restaurant_1736,Bakery,Jaipur,4.2
+1737,Restaurant_1737,North Indian,Delhi,3.6
+1738,Restaurant_1738,South Indian,Jaipur,3.2
+1739,Restaurant_1739,North Indian,Delhi,4.1
+1740,Restaurant_1740,North Indian,Chennai,3.0
+1741,Restaurant_1741,Chinese,Jaipur,3.6
+1742,Restaurant_1742,Fast Food,Bengaluru,3.3
+1743,Restaurant_1743,North Indian,Hyderabad,3.7
+1744,Restaurant_1744,South Indian,Ahmedabad,4.6
+1745,Restaurant_1745,Bakery,Kolkata,4.4
+1746,Restaurant_1746,Biryani,Delhi,4.0
+1747,Restaurant_1747,Fast Food,Delhi,4.1
+1748,Restaurant_1748,Chinese,Hyderabad,3.3
+1749,Restaurant_1749,Chinese,Pune,3.4
+1750,Restaurant_1750,Chinese,Kolkata,3.0
+1751,Restaurant_1751,Chinese,Mumbai,2.7
+1752,Restaurant_1752,Fast Food,Kolkata,3.5
+1753,Restaurant_1753,Bakery,Kolkata,3.1
+1754,Restaurant_1754,Fast Food,Delhi,3.6
+1755,Restaurant_1755,Cafe,Delhi,4.8
+1756,Restaurant_1756,Cafe,Chennai,2.9
+1757,Restaurant_1757,North Indian,Ahmedabad,2.5
+1758,Restaurant_1758,Biryani,Chennai,3.4
+1759,Restaurant_1759,Biryani,Ahmedabad,3.9
+1760,Restaurant_1760,Fast Food,Delhi,2.7
+1761,Restaurant_1761,Biryani,Pune,3.6
+1762,Restaurant_1762,Cafe,Pune,3.0
+1763,Restaurant_1763,Fast Food,Kolkata,4.6
+1764,Restaurant_1764,Chinese,Kolkata,4.5
+1765,Restaurant_1765,Bakery,Bengaluru,3.6
+1766,Restaurant_1766,Fast Food,Jaipur,4.0
+1767,Restaurant_1767,North Indian,Delhi,3.4
+1768,Restaurant_1768,Bakery,Kolkata,3.7
+1769,Restaurant_1769,Cafe,Delhi,2.7
+1770,Restaurant_1770,Bakery,Hyderabad,3.1
+1771,Restaurant_1771,Fast Food,Pune,3.2
+1772,Restaurant_1772,Bakery,Jaipur,3.7
+1773,Restaurant_1773,Cafe,Pune,3.8
+1774,Restaurant_1774,Chinese,Jaipur,3.0
+1775,Restaurant_1775,South Indian,Ahmedabad,3.1
+1776,Restaurant_1776,South Indian,Mumbai,2.5
+1777,Restaurant_1777,CAFE,Chennai,2.9
+1778,Restaurant_1778,NORTH INDIAN,Pune,3.7
+1779,Restaurant_1779,Bakery,Hyderabad,4.6
+1780,Restaurant_1780,Chinese,Hyderabad,3.4
+1781,Restaurant_1781,North Indian,Mumbai,
+1782,Restaurant_1782,Bakery,Chennai,3.3
+1783,Restaurant_1783,Fast Food,Delhi,3.2
+1784,Restaurant_1784,Chinese,Chennai,
+1785,Restaurant_1785,South Indian,Pune,4.0
+1786,Restaurant_1786,North Indian,Pune,2.8
+1787,Restaurant_1787,South Indian,Delhi,2.6
+1788,Restaurant_1788,Bakery,Bengaluru,3.1
+1789,Restaurant_1789,North Indian,Hyderabad,4.2
+1790,Restaurant_1790,South Indian,Pune,3.1
+1791,Restaurant_1791,North Indian,Mumbai,2.8
+1792,Restaurant_1792,Chinese,Pune,4.2
+1793,Restaurant_1793,Bakery,Pune,4.8
+1794,Restaurant_1794,Cafe,Bengaluru,
+1795,Restaurant_1795,Biryani,Delhi,2.9
+1796,Restaurant_1796,Biryani,Kolkata,3.9
+1797,Restaurant_1797,Chinese,Delhi,4.6
+1798,Restaurant_1798,Fast Food,Ahmedabad,4.1
+1799,Restaurant_1799,FAST FOOD,Pune,4.0
+1800,Restaurant_1800,Fast Food,Pune,2.7
+1801,Restaurant_1801,South Indian,Pune,3.2
+1802,Restaurant_1802,Bakery,Bengaluru,4.4
+1803,Restaurant_1803,South Indian,Chennai,2.9
+1804,Restaurant_1804,Chinese,Chennai,4.1
+1805,Restaurant_1805,Chinese,Pune,3.4
+1806,Restaurant_1806,Fast Food,Delhi,3.6
+1807,Restaurant_1807,Chinese,Pune,3.7
+1808,Restaurant_1808,Fast Food,Bengaluru,4.7
+1809,Restaurant_1809,Chinese,Chennai,2.9
+1810,Restaurant_1810,North Indian,Delhi,3.0
+1811,Restaurant_1811,CHINESE,Pune,2.7
+1812,Restaurant_1812,Chinese,Hyderabad,3.9
+1813,Restaurant_1813,Biryani,Mumbai,4.3
+1814,Restaurant_1814,Bakery,Bengaluru,4.5
+1815,Restaurant_1815,Fast Food,Pune,4.2
+1816,Restaurant_1816,Fast Food,Kolkata,
+1817,Restaurant_1817,South Indian,Mumbai,4.2
+1818,Restaurant_1818,Biryani,Delhi,4.0
+1819,Restaurant_1819,FAST FOOD,Jaipur,3.2
+1820,Restaurant_1820,South Indian,Jaipur,4.4
+1821,Restaurant_1821,Biryani,Bengaluru,3.3
+1822,Restaurant_1822,Biryani,Bengaluru,4.4
+1823,Restaurant_1823,Cafe,Kolkata,4.8
+1824,Restaurant_1824,Chinese,Kolkata,3.9
+1825,Restaurant_1825,South Indian,Chennai,3.1
+1826,Restaurant_1826,Fast Food,Jaipur,2.7
+1827,Restaurant_1827,NORTH INDIAN,Pune,4.1
+1828,Restaurant_1828,Bakery,Mumbai,2.6
+1829,Restaurant_1829,Biryani,Pune,4.2
+1830,Restaurant_1830,Fast Food,Jaipur,2.8
+1831,Restaurant_1831,Bakery,Mumbai,3.9
+1832,Restaurant_1832,North Indian,Pune,3.1
+1833,Restaurant_1833,Chinese,Hyderabad,4.4
+1834,Restaurant_1834,Bakery,Bengaluru,4.8
+1835,Restaurant_1835,South Indian,Pune,3.0
+1836,Restaurant_1836,Chinese,Jaipur,4.4
+1837,Restaurant_1837,Biryani,Hyderabad,4.1
+1838,Restaurant_1838,Fast Food,Kolkata,
+1839,Restaurant_1839,Cafe,Ahmedabad,3.6
+1840,Restaurant_1840,Biryani,Hyderabad,3.2
+1841,Restaurant_1841,Cafe,Hyderabad,4.9
+1842,Restaurant_1842,Fast Food,Hyderabad,4.1
+1843,Restaurant_1843,Fast Food,Pune,4.2
+1844,Restaurant_1844,Fast Food,Ahmedabad,3.6
+1845,Restaurant_1845,Chinese,Delhi,3.1
+1846,Restaurant_1846,Cafe,Pune,2.8
+1847,Restaurant_1847,North Indian,Mumbai,3.2
+1848,Restaurant_1848,SOUTH INDIAN,Delhi,3.4
+1849,Restaurant_1849,Fast Food,Jaipur,2.5
+1850,Restaurant_1850,FAST FOOD,Hyderabad,
+1851,Restaurant_1851,Bakery,Pune,3.8
+1852,Restaurant_1852,South Indian,Bengaluru,
+1853,Restaurant_1853,South Indian,Delhi,2.7
+1854,Restaurant_1854,South Indian,Jaipur,4.6
+1855,Restaurant_1855,Bakery,Kolkata,4.8
+1856,Restaurant_1856,Biryani,Delhi,3.8
+1857,Restaurant_1857,Biryani,Hyderabad,3.9
+1858,Restaurant_1858,Bakery,Jaipur,3.1
+1859,Restaurant_1859,Biryani,Kolkata,
+1860,Restaurant_1860,Fast Food,Delhi,4.3
+1861,Restaurant_1861,South Indian,Jaipur,4.2
+1862,Restaurant_1862,Biryani,Hyderabad,
+1863,Restaurant_1863,Chinese,Delhi,4.7
+1864,Restaurant_1864,Biryani,Hyderabad,3.7
+1865,Restaurant_1865,Cafe,Pune,4.3
+1866,Restaurant_1866,South Indian,Bengaluru,4.5
+1867,Restaurant_1867,Cafe,Hyderabad,
+1868,Restaurant_1868,Chinese,Chennai,
+1869,Restaurant_1869,BAKERY,Kolkata,4.4
+1870,Restaurant_1870,Chinese,Bengaluru,2.9
+1871,Restaurant_1871,South Indian,Mumbai,3.5
+1872,Restaurant_1872,South Indian,Jaipur,4.1
+1873,Restaurant_1873,North Indian,Delhi,3.2
+1874,Restaurant_1874,Cafe,Jaipur,3.0
+1875,Restaurant_1875,Biryani,Bengaluru,3.3
+1876,Restaurant_1876,Fast Food,Ahmedabad,2.6
+1877,Restaurant_1877,South Indian,Pune,4.1
+1878,Restaurant_1878,Chinese,Hyderabad,4.4
+1879,Restaurant_1879,Chinese,Kolkata,3.1
+1880,Restaurant_1880,Cafe,Bengaluru,4.1
+1881,Restaurant_1881,Bakery,Delhi,4.1
+1882,Restaurant_1882,Chinese,Jaipur,4.4
+1883,Restaurant_1883,Bakery,Delhi,3.6
+1884,Restaurant_1884,Bakery,Delhi,3.1
+1885,Restaurant_1885,Biryani,Hyderabad,3.2
+1886,Restaurant_1886,North Indian,Kolkata,4.3
+1887,Restaurant_1887,Chinese,Mumbai,
+1888,Restaurant_1888,South Indian,Jaipur,4.7
+1889,Restaurant_1889,Chinese,Delhi,4.8
+1890,Restaurant_1890,Fast Food,Pune,2.9
+1891,Restaurant_1891,Biryani,Ahmedabad,3.2
+1892,Restaurant_1892,Chinese,Jaipur,4.2
+1893,Restaurant_1893,South Indian,Mumbai,2.7
+1894,Restaurant_1894,Bakery,Pune,4.7
+1895,Restaurant_1895,Bakery,Delhi,3.2
+1896,Restaurant_1896,Cafe,Jaipur,3.4
+1897,Restaurant_1897,Fast Food,Pune,4.0
+1898,Restaurant_1898,Fast Food,Jaipur,4.7
+1899,Restaurant_1899,Cafe,Chennai,
+1900,Restaurant_1900,Fast Food,Pune,4.1
+1901,Restaurant_1901,NORTH INDIAN,Hyderabad,4.2
+1902,Restaurant_1902,Bakery,Jaipur,3.9
+1903,Restaurant_1903,NORTH INDIAN,Jaipur,4.0
+1904,Restaurant_1904,Bakery,Ahmedabad,3.0
+1905,Restaurant_1905,Fast Food,Pune,2.6
+1906,Restaurant_1906,Biryani,Kolkata,3.2
+1907,Restaurant_1907,Fast Food,Hyderabad,4.7
+1908,Restaurant_1908,North Indian,Delhi,2.7
+1909,Restaurant_1909,Chinese,Bengaluru,4.2
+1910,Restaurant_1910,Biryani,Pune,
+1911,Restaurant_1911,Fast Food,Kolkata,4.4
+1912,Restaurant_1912,North Indian,Delhi,4.2
+1913,Restaurant_1913,South Indian,Jaipur,2.8
+1914,Restaurant_1914,Biryani,Jaipur,3.3
+1915,Restaurant_1915,Chinese,Chennai,4.4
+1916,Restaurant_1916,Cafe,Pune,2.6
+1917,Restaurant_1917,Fast Food,Bengaluru,3.0
+1918,Restaurant_1918,Chinese,Kolkata,2.9
+1919,Restaurant_1919,North Indian,Kolkata,4.9
+1920,Restaurant_1920,Biryani,Chennai,4.1
+1921,Restaurant_1921,CHINESE,Bengaluru,2.9
+1922,Restaurant_1922,Cafe,Bengaluru,4.2
+1923,Restaurant_1923,Fast Food,Delhi,2.7
+1924,Restaurant_1924,North Indian,Delhi,3.0
+1925,Restaurant_1925,Biryani,Jaipur,3.8
+1926,Restaurant_1926,North Indian,Delhi,
+1927,Restaurant_1927,South Indian,Ahmedabad,4.0
+1928,Restaurant_1928,Bakery,Chennai,4.3
+1929,Restaurant_1929,FAST FOOD,Kolkata,
+1930,Restaurant_1930,Bakery,Ahmedabad,3.2
+1931,Restaurant_1931,Bakery,Chennai,4.2
+1932,Restaurant_1932,North Indian,Hyderabad,
+1933,Restaurant_1933,NORTH INDIAN,Hyderabad,3.7
+1934,Restaurant_1934,Biryani,Kolkata,4.6
+1935,Restaurant_1935,Biryani,Jaipur,4.3
+1936,Restaurant_1936,Fast Food,Ahmedabad,2.9
+1937,Restaurant_1937,North Indian,Delhi,3.3
+1938,Restaurant_1938,Fast Food,Ahmedabad,3.4
+1939,Restaurant_1939,Biryani,Chennai,4.0
+1940,Restaurant_1940,CAFE,Chennai,4.6
+1941,Restaurant_1941,Chinese,Ahmedabad,2.7
+1942,Restaurant_1942,Chinese,Bengaluru,
+1943,Restaurant_1943,Biryani,Chennai,3.2
+1944,Restaurant_1944,South Indian,Mumbai,2.5
+1945,Restaurant_1945,North Indian,Bengaluru,
+1946,Restaurant_1946,Chinese,Ahmedabad,4.7
+1947,Restaurant_1947,Biryani,Kolkata,4.3
+1948,Restaurant_1948,Biryani,Bengaluru,2.6
+1949,Restaurant_1949,CHINESE,Pune,3.5
+1950,Restaurant_1950,Fast Food,Bengaluru,4.2
+1951,Restaurant_1951,North Indian,Hyderabad,3.3
+1952,Restaurant_1952,Cafe,Ahmedabad,2.8
+1953,Restaurant_1953,Cafe,Kolkata,3.1
+1954,Restaurant_1954,Biryani,Pune,2.7
+1955,Restaurant_1955,Biryani,Delhi,
+1956,Restaurant_1956,Biryani,Kolkata,3.2
+1957,Restaurant_1957,Bakery,Ahmedabad,3.5
+1958,Restaurant_1958,South Indian,Jaipur,4.5
+1959,Restaurant_1959,South Indian,Mumbai,4.1
+1960,Restaurant_1960,NORTH INDIAN,Pune,4.2
+1961,Restaurant_1961,Cafe,Ahmedabad,3.0
+1962,Restaurant_1962,North Indian,Jaipur,4.7
+1963,Restaurant_1963,Fast Food,Pune,4.7
+1964,Restaurant_1964,Bakery,Chennai,4.3
+1965,Restaurant_1965,Biryani,Ahmedabad,4.6
+1966,Restaurant_1966,South Indian,Bengaluru,2.8
+1967,Restaurant_1967,Chinese,Delhi,4.5
+1968,Restaurant_1968,South Indian,Kolkata,2.8
+1969,Restaurant_1969,Cafe,Chennai,3.9
+1970,Restaurant_1970,BAKERY,Kolkata,4.2
+1971,Restaurant_1971,Fast Food,Bengaluru,3.4
+1972,Restaurant_1972,Bakery,Kolkata,4.3
+1973,Restaurant_1973,Biryani,Bengaluru,4.3
+1974,Restaurant_1974,Chinese,Kolkata,3.4
+1975,Restaurant_1975,North Indian,Chennai,3.4
+1976,Restaurant_1976,Fast Food,Bengaluru,4.4
+1977,Restaurant_1977,Bakery,Delhi,4.3
+1978,Restaurant_1978,CHINESE,Pune,2.9
+1979,Restaurant_1979,Fast Food,Delhi,4.5
+1980,Restaurant_1980,Chinese,Chennai,2.9
+1981,Restaurant_1981,South Indian,Hyderabad,3.8
+1982,Restaurant_1982,Biryani,Hyderabad,4.6
+1983,Restaurant_1983,Bakery,Bengaluru,4.5
+1984,Restaurant_1984,Bakery,Kolkata,3.6
+1985,Restaurant_1985,Cafe,Delhi,2.5
+1986,Restaurant_1986,Fast Food,Kolkata,3.7
+1987,Restaurant_1987,North Indian,Kolkata,
+1988,Restaurant_1988,Chinese,Mumbai,3.6
+1989,Restaurant_1989,South Indian,Ahmedabad,4.7
+1990,Restaurant_1990,Biryani,Kolkata,4.2
+1991,Restaurant_1991,North Indian,Bengaluru,4.1
+1992,Restaurant_1992,Bakery,Ahmedabad,4.3
+1993,Restaurant_1993,Bakery,Bengaluru,
+1994,Restaurant_1994,South Indian,Ahmedabad,3.1
+1995,Restaurant_1995,South Indian,Kolkata,3.2
+1996,Restaurant_1996,Biryani,Chennai,4.2
+1997,Restaurant_1997,South Indian,Kolkata,4.5
+1998,Restaurant_1998,South Indian,Ahmedabad,3.5
+1999,Restaurant_1999,Biryani,Kolkata,2.8
+2000,Restaurant_2000,Cafe,Ahmedabad,3.5
+2001,Restaurant_2001,Fast Food,Jaipur,4.3
+2002,Restaurant_2002,North Indian,Chennai,4.6
+2003,Restaurant_2003,Cafe,Ahmedabad,3.1
+2004,Restaurant_2004,Chinese,Jaipur,4.2
+2005,Restaurant_2005,North Indian,Jaipur,2.6
+2006,Restaurant_2006,CHINESE,Hyderabad,3.4
+2007,Restaurant_2007,Bakery,Pune,4.0
+2008,Restaurant_2008,South Indian,Bengaluru,3.4
+2009,Restaurant_2009,Chinese,Kolkata,3.5
+2010,Restaurant_2010,Cafe,Mumbai,2.9
+2011,Restaurant_2011,Fast Food,Hyderabad,2.7
+2012,Restaurant_2012,Fast Food,Mumbai,3.8
+2013,Restaurant_2013,Chinese,Ahmedabad,4.9
+2014,Restaurant_2014,North Indian,Mumbai,4.5
+2015,Restaurant_2015,North Indian,Delhi,4.3
+2016,Restaurant_2016,South Indian,Ahmedabad,4.7
+2017,Restaurant_2017,Biryani,Jaipur,3.3
+2018,Restaurant_2018,Bakery,Ahmedabad,4.5
+2019,Restaurant_2019,Bakery,Delhi,4.9
+2020,Restaurant_2020,Fast Food,Kolkata,2.7
+2021,Restaurant_2021,South Indian,Ahmedabad,3.5
+2022,Restaurant_2022,North Indian,Chennai,4.6
+2023,Restaurant_2023,Chinese,Jaipur,3.7
+2024,Restaurant_2024,South Indian,Jaipur,2.6
+2025,Restaurant_2025,Fast Food,Bengaluru,4.6
+2026,Restaurant_2026,North Indian,Jaipur,4.5
+2027,Restaurant_2027,Fast Food,Bengaluru,3.1
+2028,Restaurant_2028,Bakery,Kolkata,3.5
+2029,Restaurant_2029,South Indian,Mumbai,2.6
+2030,Restaurant_2030,South Indian,Kolkata,
+2031,Restaurant_2031,Bakery,Ahmedabad,3.8
+2032,Restaurant_2032,Biryani,Bengaluru,
+2033,Restaurant_2033,South Indian,Kolkata,3.6
+2034,Restaurant_2034,Bakery,Kolkata,3.1
+2035,Restaurant_2035,Cafe,Bengaluru,4.2
+2036,Restaurant_2036,Cafe,Pune,3.7
+2037,Restaurant_2037,Biryani,Chennai,4.5
+2038,Restaurant_2038,North Indian,Jaipur,3.5
+2039,Restaurant_2039,North Indian,Mumbai,3.4
+2040,Restaurant_2040,Cafe,Hyderabad,2.9
+2041,Restaurant_2041,Biryani,Kolkata,
+2042,Restaurant_2042,Biryani,Chennai,4.8
+2043,Restaurant_2043,Chinese,Mumbai,2.6
+2044,Restaurant_2044,Cafe,Kolkata,4.9
+2045,Restaurant_2045,Bakery,Bengaluru,4.9
+2046,Restaurant_2046,North Indian,Bengaluru,4.9
+2047,Restaurant_2047,South Indian,Hyderabad,3.3
+2048,Restaurant_2048,North Indian,Hyderabad,3.2
+2049,Restaurant_2049,Cafe,Delhi,
+2050,Restaurant_2050,Fast Food,Hyderabad,4.1
+2051,Restaurant_2051,Bakery,Kolkata,
+2052,Restaurant_2052,Biryani,Bengaluru,3.2
+2053,Restaurant_2053,North Indian,Ahmedabad,3.8
+2054,Restaurant_2054,Biryani,Delhi,4.4
+2055,Restaurant_2055,South Indian,Chennai,3.8
+2056,Restaurant_2056,South Indian,Pune,3.3
+2057,Restaurant_2057,South Indian,Bengaluru,3.0
+2058,Restaurant_2058,Biryani,Chennai,2.9
+2059,Restaurant_2059,Fast Food,Mumbai,4.3
+2060,Restaurant_2060,BIRYANI,Hyderabad,3.9
+2061,Restaurant_2061,Cafe,Ahmedabad,
+2062,Restaurant_2062,Fast Food,Bengaluru,4.1
+2063,Restaurant_2063,South Indian,Mumbai,3.5
+2064,Restaurant_2064,Chinese,Pune,4.6
+2065,Restaurant_2065,North Indian,Hyderabad,3.6
+2066,Restaurant_2066,Fast Food,Kolkata,3.6
+2067,Restaurant_2067,South Indian,Pune,4.0
+2068,Restaurant_2068,Fast Food,Jaipur,2.6
+2069,Restaurant_2069,South Indian,Kolkata,3.7
+2070,Restaurant_2070,Cafe,Jaipur,3.7
+2071,Restaurant_2071,Cafe,Jaipur,4.7
+2072,Restaurant_2072,Cafe,Kolkata,4.8
+2073,Restaurant_2073,BIRYANI,Hyderabad,4.6
+2074,Restaurant_2074,Cafe,Ahmedabad,3.4
+2075,Restaurant_2075,North Indian,Pune,3.7
+2076,Restaurant_2076,Chinese,Bengaluru,2.8
+2077,Restaurant_2077,Biryani,Jaipur,2.9
+2078,Restaurant_2078,Bakery,Kolkata,
+2079,Restaurant_2079,Fast Food,Chennai,3.6
+2080,Restaurant_2080,Bakery,Ahmedabad,4.6
+2081,Restaurant_2081,Bakery,Chennai,4.5
+2082,Restaurant_2082,Biryani,Chennai,4.9
+2083,Restaurant_2083,North Indian,Bengaluru,3.6
+2084,Restaurant_2084,South Indian,Hyderabad,
+2085,Restaurant_2085,Fast Food,Bengaluru,3.3
+2086,Restaurant_2086,Cafe,Ahmedabad,4.4
+2087,Restaurant_2087,Fast Food,Kolkata,4.8
+2088,Restaurant_2088,South Indian,Bengaluru,4.9
+2089,Restaurant_2089,BIRYANI,Chennai,4.2
+2090,Restaurant_2090,South Indian,Mumbai,3.7
+2091,Restaurant_2091,Chinese,Ahmedabad,4.6
+2092,Restaurant_2092,CHINESE,Hyderabad,3.4
+2093,Restaurant_2093,Fast Food,Bengaluru,4.0
+2094,Restaurant_2094,Chinese,Hyderabad,3.9
+2095,Restaurant_2095,Chinese,Delhi,4.1
+2096,Restaurant_2096,Chinese,Pune,3.6
+2097,Restaurant_2097,Fast Food,Mumbai,3.8
+2098,Restaurant_2098,Fast Food,Pune,2.7
+2099,Restaurant_2099,Chinese,Mumbai,3.6
+2100,Restaurant_2100,Chinese,Bengaluru,4.2
+2101,Restaurant_2101,Cafe,Jaipur,3.6
+2102,Restaurant_2102,Chinese,Chennai,3.4
+2103,Restaurant_2103,Fast Food,Jaipur,3.8
+2104,Restaurant_2104,Biryani,Delhi,3.7
+2105,Restaurant_2105,Bakery,Bengaluru,3.1
+2106,Restaurant_2106,Fast Food,Kolkata,3.4
+2107,Restaurant_2107,Fast Food,Bengaluru,
+2108,Restaurant_2108,Fast Food,Bengaluru,3.5
+2109,Restaurant_2109,Bakery,Pune,4.0
+2110,Restaurant_2110,South Indian,Ahmedabad,3.7
+2111,Restaurant_2111,Cafe,Hyderabad,4.4
+2112,Restaurant_2112,Cafe,Mumbai,4.7
+2113,Restaurant_2113,Biryani,Chennai,4.3
+2114,Restaurant_2114,Chinese,Pune,3.8
+2115,Restaurant_2115,Bakery,Chennai,4.3
+2116,Restaurant_2116,Chinese,Ahmedabad,3.7
+2117,Restaurant_2117,Fast Food,Delhi,3.6
+2118,Restaurant_2118,Chinese,Chennai,4.1
+2119,Restaurant_2119,North Indian,Mumbai,3.7
+2120,Restaurant_2120,Biryani,Kolkata,4.9
+2121,Restaurant_2121,South Indian,Delhi,3.3
+2122,Restaurant_2122,Biryani,Hyderabad,4.5
+2123,Restaurant_2123,Cafe,Pune,4.2
+2124,Restaurant_2124,Fast Food,Mumbai,3.1
+2125,Restaurant_2125,Bakery,Mumbai,3.8
+2126,Restaurant_2126,South Indian,Pune,4.8
+2127,Restaurant_2127,South Indian,Bengaluru,
+2128,Restaurant_2128,Biryani,Jaipur,3.4
+2129,Restaurant_2129,FAST FOOD,Mumbai,2.9
+2130,Restaurant_2130,Cafe,Kolkata,4.5
+2131,Restaurant_2131,South Indian,Chennai,3.3
+2132,Restaurant_2132,Biryani,Ahmedabad,4.9
+2133,Restaurant_2133,Fast Food,Jaipur,4.9
+2134,Restaurant_2134,BIRYANI,Delhi,3.6
+2135,Restaurant_2135,BIRYANI,Ahmedabad,3.2
+2136,Restaurant_2136,Chinese,Ahmedabad,3.8
+2137,Restaurant_2137,South Indian,Mumbai,3.8
+2138,Restaurant_2138,Cafe,Kolkata,4.1
+2139,Restaurant_2139,Cafe,Mumbai,4.4
+2140,Restaurant_2140,Biryani,Delhi,2.6
+2141,Restaurant_2141,Fast Food,Ahmedabad,3.9
+2142,Restaurant_2142,Fast Food,Chennai,
+2143,Restaurant_2143,Chinese,Chennai,
+2144,Restaurant_2144,Chinese,Bengaluru,3.7
+2145,Restaurant_2145,Chinese,Mumbai,
+2146,Restaurant_2146,Cafe,Mumbai,4.5
+2147,Restaurant_2147,North Indian,Ahmedabad,3.5
+2148,Restaurant_2148,Biryani,Hyderabad,4.3
+2149,Restaurant_2149,Chinese,Hyderabad,3.8
+2150,Restaurant_2150,CHINESE,Hyderabad,4.1
+2151,Restaurant_2151,Chinese,Chennai,2.9
+2152,Restaurant_2152,Cafe,Delhi,2.6
+2153,Restaurant_2153,North Indian,Ahmedabad,4.6
+2154,Restaurant_2154,Bakery,Bengaluru,4.8
+2155,Restaurant_2155,Bakery,Bengaluru,4.3
+2156,Restaurant_2156,Cafe,Kolkata,4.3
+2157,Restaurant_2157,Bakery,Kolkata,3.3
+2158,Restaurant_2158,South Indian,Kolkata,4.7
+2159,Restaurant_2159,Fast Food,Chennai,2.5
+2160,Restaurant_2160,Cafe,Chennai,4.8
+2161,Restaurant_2161,Biryani,Chennai,4.0
+2162,Restaurant_2162,Bakery,Delhi,3.2
+2163,Restaurant_2163,Bakery,Hyderabad,
+2164,Restaurant_2164,Biryani,Chennai,4.3
+2165,Restaurant_2165,North Indian,Bengaluru,4.7
+2166,Restaurant_2166,Fast Food,Delhi,3.4
+2167,Restaurant_2167,Chinese,Pune,4.3
+2168,Restaurant_2168,North Indian,Hyderabad,4.1
+2169,Restaurant_2169,Bakery,Chennai,4.2
+2170,Restaurant_2170,Cafe,Delhi,
+2171,Restaurant_2171,Fast Food,Kolkata,3.6
+2172,Restaurant_2172,North Indian,Chennai,3.6
+2173,Restaurant_2173,Fast Food,Pune,4.6
+2174,Restaurant_2174,Biryani,Chennai,4.0
+2175,Restaurant_2175,Chinese,Chennai,3.0
+2176,Restaurant_2176,South Indian,Kolkata,2.6
+2177,Restaurant_2177,Fast Food,Ahmedabad,3.4
+2178,Restaurant_2178,South Indian,Delhi,4.7
+2179,Restaurant_2179,Biryani,Hyderabad,4.8
+2180,Restaurant_2180,Fast Food,Chennai,4.4
+2181,Restaurant_2181,Cafe,Bengaluru,3.7
+2182,Restaurant_2182,Chinese,Jaipur,2.5
+2183,Restaurant_2183,North Indian,Jaipur,3.8
+2184,Restaurant_2184,Biryani,Delhi,3.6
+2185,Restaurant_2185,Fast Food,Delhi,
+2186,Restaurant_2186,North Indian,Jaipur,3.8
+2187,Restaurant_2187,Cafe,Mumbai,2.8
+2188,Restaurant_2188,South Indian,Pune,4.4
+2189,Restaurant_2189,North Indian,Mumbai,3.9
+2190,Restaurant_2190,North Indian,Ahmedabad,3.3
+2191,Restaurant_2191,Cafe,Kolkata,4.5
+2192,Restaurant_2192,Biryani,Pune,
+2193,Restaurant_2193,SOUTH INDIAN,Ahmedabad,3.6
+2194,Restaurant_2194,Biryani,Delhi,4.3
+2195,Restaurant_2195,North Indian,Mumbai,3.7
+2196,Restaurant_2196,Cafe,Mumbai,4.7
+2197,Restaurant_2197,North Indian,Delhi,3.4
+2198,Restaurant_2198,CHINESE,Mumbai,3.2
+2199,Restaurant_2199,Cafe,Mumbai,2.6
+2200,Restaurant_2200,Chinese,Mumbai,3.3
+2201,Restaurant_2201,Cafe,Bengaluru,3.2
+2202,Restaurant_2202,Bakery,Bengaluru,4.7
+2203,Restaurant_2203,North Indian,Pune,2.6
+2204,Restaurant_2204,Bakery,Delhi,4.7
+2205,Restaurant_2205,Bakery,Ahmedabad,4.6
+2206,Restaurant_2206,BIRYANI,Hyderabad,3.2
+2207,Restaurant_2207,Biryani,Jaipur,
+2208,Restaurant_2208,Cafe,Delhi,3.7
+2209,Restaurant_2209,Bakery,Pune,3.2
+2210,Restaurant_2210,Biryani,Delhi,4.7
+2211,Restaurant_2211,Biryani,Hyderabad,4.4
+2212,Restaurant_2212,Biryani,Bengaluru,3.3
+2213,Restaurant_2213,Chinese,Pune,2.9
+2214,Restaurant_2214,Biryani,Hyderabad,3.8
+2215,Restaurant_2215,Chinese,Pune,4.7
+2216,Restaurant_2216,North Indian,Mumbai,4.8
+2217,Restaurant_2217,North Indian,Pune,4.1
+2218,Restaurant_2218,Fast Food,Ahmedabad,4.6
+2219,Restaurant_2219,Fast Food,Jaipur,4.2
+2220,Restaurant_2220,Cafe,Ahmedabad,4.4
+2221,Restaurant_2221,FAST FOOD,Mumbai,4.2
+2222,Restaurant_2222,Bakery,Chennai,3.2
+2223,Restaurant_2223,Fast Food,Chennai,3.6
+2224,Restaurant_2224,Bakery,Chennai,2.8
+2225,Restaurant_2225,Cafe,Delhi,
+2226,Restaurant_2226,Biryani,Kolkata,2.6
+2227,Restaurant_2227,BAKERY,Delhi,2.9
+2228,Restaurant_2228,Chinese,Kolkata,2.9
+2229,Restaurant_2229,Cafe,Mumbai,2.7
+2230,Restaurant_2230,Bakery,Pune,4.6
+2231,Restaurant_2231,Fast Food,Chennai,3.0
+2232,Restaurant_2232,Chinese,Delhi,3.1
+2233,Restaurant_2233,Cafe,Hyderabad,4.6
+2234,Restaurant_2234,Cafe,Jaipur,4.6
+2235,Restaurant_2235,Chinese,Pune,3.6
+2236,Restaurant_2236,Fast Food,Chennai,3.7
+2237,Restaurant_2237,Biryani,Kolkata,4.2
+2238,Restaurant_2238,BAKERY,Chennai,3.0
+2239,Restaurant_2239,Chinese,Ahmedabad,3.5
+2240,Restaurant_2240,South Indian,Bengaluru,3.3
+2241,Restaurant_2241,North Indian,Ahmedabad,3.4
+2242,Restaurant_2242,Bakery,Chennai,3.4
+2243,Restaurant_2243,Bakery,Mumbai,3.3
+2244,Restaurant_2244,North Indian,Jaipur,2.5
+2245,Restaurant_2245,Chinese,Hyderabad,4.7
+2246,Restaurant_2246,Biryani,Jaipur,3.2
+2247,Restaurant_2247,Chinese,Jaipur,3.8
+2248,Restaurant_2248,North Indian,Jaipur,3.4
+2249,Restaurant_2249,Cafe,Ahmedabad,2.7
+2250,Restaurant_2250,NORTH INDIAN,Ahmedabad,3.6
+2251,Restaurant_2251,North Indian,Hyderabad,3.7
+2252,Restaurant_2252,Bakery,Ahmedabad,2.5
+2253,Restaurant_2253,Chinese,Chennai,3.0
+2254,Restaurant_2254,Bakery,Pune,
+2255,Restaurant_2255,South Indian,Jaipur,2.9
+2256,Restaurant_2256,North Indian,Bengaluru,3.4
+2257,Restaurant_2257,Fast Food,Ahmedabad,4.1
+2258,Restaurant_2258,NORTH INDIAN,Jaipur,3.8
+2259,Restaurant_2259,South Indian,Chennai,4.5
+2260,Restaurant_2260,Cafe,Delhi,2.9
+2261,Restaurant_2261,BIRYANI,Jaipur,3.8
+2262,Restaurant_2262,South Indian,Ahmedabad,4.0
+2263,Restaurant_2263,Chinese,Delhi,3.6
+2264,Restaurant_2264,Cafe,Delhi,2.9
+2265,Restaurant_2265,Cafe,Ahmedabad,2.8
+2266,Restaurant_2266,Chinese,Kolkata,2.6
+2267,Restaurant_2267,Bakery,Mumbai,3.4
+2268,Restaurant_2268,NORTH INDIAN,Delhi,4.4
+2269,Restaurant_2269,Fast Food,Delhi,3.0
+2270,Restaurant_2270,Chinese,Hyderabad,3.5
+2271,Restaurant_2271,Fast Food,Kolkata,4.4
+2272,Restaurant_2272,South Indian,Delhi,3.1
+2273,Restaurant_2273,Chinese,Kolkata,
+2274,Restaurant_2274,Bakery,Mumbai,4.7
+2275,Restaurant_2275,South Indian,Ahmedabad,2.6
+2276,Restaurant_2276,SOUTH INDIAN,Pune,4.2
+2277,Restaurant_2277,South Indian,Delhi,4.1
+2278,Restaurant_2278,South Indian,Mumbai,3.9
+2279,Restaurant_2279,Biryani,Chennai,2.9
+2280,Restaurant_2280,Biryani,Chennai,
+2281,Restaurant_2281,South Indian,Delhi,3.6
+2282,Restaurant_2282,Fast Food,Pune,4.7
+2283,Restaurant_2283,South Indian,Ahmedabad,3.7
+2284,Restaurant_2284,Bakery,Ahmedabad,2.7
+2285,Restaurant_2285,Cafe,Bengaluru,
+2286,Restaurant_2286,CHINESE,Kolkata,3.6
+2287,Restaurant_2287,Bakery,Bengaluru,
+2288,Restaurant_2288,Bakery,Bengaluru,3.6
+2289,Restaurant_2289,South Indian,Pune,2.6
+2290,Restaurant_2290,Chinese,Bengaluru,3.0
+2291,Restaurant_2291,South Indian,Mumbai,2.5
+2292,Restaurant_2292,South Indian,Jaipur,4.7
+2293,Restaurant_2293,Fast Food,Jaipur,4.4
+2294,Restaurant_2294,Cafe,Jaipur,3.1
+2295,Restaurant_2295,Fast Food,Delhi,
+2296,Restaurant_2296,BAKERY,Ahmedabad,3.4
+2297,Restaurant_2297,Cafe,Kolkata,3.4
+2298,Restaurant_2298,Chinese,Kolkata,4.2
+2299,Restaurant_2299,South Indian,Kolkata,3.4
+2300,Restaurant_2300,Biryani,Jaipur,4.5
+2301,Restaurant_2301,Cafe,Bengaluru,4.2
+2302,Restaurant_2302,Cafe,Ahmedabad,
+2303,Restaurant_2303,Chinese,Chennai,4.0
+2304,Restaurant_2304,Fast Food,Bengaluru,3.9
+2305,Restaurant_2305,Chinese,Pune,2.9
+2306,Restaurant_2306,North Indian,Bengaluru,4.0
+2307,Restaurant_2307,Fast Food,Hyderabad,3.2
+2308,Restaurant_2308,Bakery,Chennai,4.1
+2309,Restaurant_2309,Fast Food,Delhi,4.2
+2310,Restaurant_2310,Fast Food,Kolkata,3.9
+2311,Restaurant_2311,Bakery,Hyderabad,3.8
+2312,Restaurant_2312,Chinese,Kolkata,4.6
+2313,Restaurant_2313,Biryani,Kolkata,2.9
+2314,Restaurant_2314,Fast Food,Pune,3.9
+2315,Restaurant_2315,North Indian,Jaipur,2.6
+2316,Restaurant_2316,Chinese,Mumbai,3.8
+2317,Restaurant_2317,North Indian,Ahmedabad,4.0
+2318,Restaurant_2318,South Indian,Ahmedabad,2.7
+2319,Restaurant_2319,South Indian,Mumbai,3.4
+2320,Restaurant_2320,Fast Food,Kolkata,3.3
+2321,Restaurant_2321,Biryani,Chennai,3.0
+2322,Restaurant_2322,Bakery,Mumbai,4.8
+2323,Restaurant_2323,Bakery,Kolkata,4.6
+2324,Restaurant_2324,North Indian,Pune,3.0
+2325,Restaurant_2325,Bakery,Pune,4.3
+2326,Restaurant_2326,North Indian,Chennai,3.9
+2327,Restaurant_2327,Cafe,Delhi,2.8
+2328,Restaurant_2328,Chinese,Hyderabad,3.9
+2329,Restaurant_2329,Bakery,Bengaluru,2.8
+2330,Restaurant_2330,South Indian,Mumbai,3.3
+2331,Restaurant_2331,Biryani,Ahmedabad,3.5
+2332,Restaurant_2332,Bakery,Chennai,4.7
+2333,Restaurant_2333,Chinese,Ahmedabad,4.1
+2334,Restaurant_2334,Fast Food,Jaipur,4.4
+2335,Restaurant_2335,Fast Food,Jaipur,3.9
+2336,Restaurant_2336,North Indian,Pune,
+2337,Restaurant_2337,Bakery,Chennai,3.2
+2338,Restaurant_2338,NORTH INDIAN,Chennai,4.3
+2339,Restaurant_2339,Bakery,Hyderabad,3.3
+2340,Restaurant_2340,Fast Food,Ahmedabad,3.2
+2341,Restaurant_2341,SOUTH INDIAN,Kolkata,4.4
+2342,Restaurant_2342,Biryani,Chennai,4.9
+2343,Restaurant_2343,Fast Food,Bengaluru,2.9
+2344,Restaurant_2344,Fast Food,Ahmedabad,3.0
+2345,Restaurant_2345,Bakery,Hyderabad,4.5
+2346,Restaurant_2346,Biryani,Hyderabad,4.3
+2347,Restaurant_2347,Bakery,Kolkata,3.4
+2348,Restaurant_2348,Fast Food,Bengaluru,3.2
+2349,Restaurant_2349,North Indian,Mumbai,4.4
+2350,Restaurant_2350,Fast Food,Pune,3.8
+2351,Restaurant_2351,South Indian,Hyderabad,4.3
+2352,Restaurant_2352,Fast Food,Chennai,3.8
+2353,Restaurant_2353,Biryani,Delhi,
+2354,Restaurant_2354,North Indian,Hyderabad,3.8
+2355,Restaurant_2355,Cafe,Pune,3.3
+2356,Restaurant_2356,Bakery,Jaipur,4.6
+2357,Restaurant_2357,Chinese,Kolkata,4.1
+2358,Restaurant_2358,BIRYANI,Ahmedabad,2.7
+2359,Restaurant_2359,Bakery,Ahmedabad,3.0
+2360,Restaurant_2360,BIRYANI,Kolkata,2.9
+2361,Restaurant_2361,Cafe,Pune,
+2362,Restaurant_2362,Biryani,Delhi,4.8
+2363,Restaurant_2363,South Indian,Kolkata,3.8
+2364,Restaurant_2364,Cafe,Kolkata,2.7
+2365,Restaurant_2365,North Indian,Hyderabad,3.4
+2366,Restaurant_2366,North Indian,Delhi,3.7
+2367,Restaurant_2367,Cafe,Delhi,4.8
+2368,Restaurant_2368,Bakery,Hyderabad,
+2369,Restaurant_2369,Cafe,Bengaluru,3.4
+2370,Restaurant_2370,Cafe,Delhi,4.5
+2371,Restaurant_2371,Chinese,Ahmedabad,
+2372,Restaurant_2372,Cafe,Mumbai,2.9
+2373,Restaurant_2373,Bakery,Hyderabad,2.7
+2374,Restaurant_2374,Fast Food,Jaipur,4.4
+2375,Restaurant_2375,Fast Food,Ahmedabad,2.8
+2376,Restaurant_2376,Fast Food,Ahmedabad,
+2377,Restaurant_2377,Fast Food,Chennai,2.9
+2378,Restaurant_2378,Bakery,Jaipur,3.3
+2379,Restaurant_2379,North Indian,Ahmedabad,
+2380,Restaurant_2380,Cafe,Jaipur,3.0
+2381,Restaurant_2381,Biryani,Ahmedabad,3.6
+2382,Restaurant_2382,Biryani,Ahmedabad,
+2383,Restaurant_2383,Bakery,Bengaluru,4.4
+2384,Restaurant_2384,Bakery,Ahmedabad,2.7
+2385,Restaurant_2385,Bakery,Bengaluru,4.7
+2386,Restaurant_2386,Cafe,Hyderabad,4.4
+2387,Restaurant_2387,Fast Food,Kolkata,2.7
+2388,Restaurant_2388,Bakery,Delhi,2.8
+2389,Restaurant_2389,Chinese,Ahmedabad,4.7
+2390,Restaurant_2390,Fast Food,Ahmedabad,2.6
+2391,Restaurant_2391,Biryani,Chennai,4.1
+2392,Restaurant_2392,BAKERY,Hyderabad,2.9
+2393,Restaurant_2393,Bakery,Delhi,2.6
+2394,Restaurant_2394,Bakery,Mumbai,4.9
+2395,Restaurant_2395,Chinese,Bengaluru,3.6
+2396,Restaurant_2396,Chinese,Jaipur,3.8
+2397,Restaurant_2397,South Indian,Hyderabad,4.7
+2398,Restaurant_2398,Cafe,Jaipur,4.8
+2399,Restaurant_2399,South Indian,Pune,3.5
+2400,Restaurant_2400,Biryani,Bengaluru,4.1
+2401,Restaurant_2401,North Indian,Hyderabad,3.5
+2402,Restaurant_2402,Chinese,Mumbai,
+2403,Restaurant_2403,Bakery,Mumbai,4.0
+2404,Restaurant_2404,CHINESE,Chennai,4.6
+2405,Restaurant_2405,Chinese,Chennai,3.5
+2406,Restaurant_2406,Chinese,Ahmedabad,4.0
+2407,Restaurant_2407,Biryani,Pune,4.6
+2408,Restaurant_2408,Bakery,Delhi,4.9
+2409,Restaurant_2409,Chinese,Bengaluru,2.6
+2410,Restaurant_2410,Biryani,Ahmedabad,3.9
+2411,Restaurant_2411,North Indian,Bengaluru,3.4
+2412,Restaurant_2412,Bakery,Ahmedabad,3.2
+2413,Restaurant_2413,South Indian,Delhi,4.3
+2414,Restaurant_2414,South Indian,Mumbai,3.2
+2415,Restaurant_2415,Bakery,Pune,
+2416,Restaurant_2416,South Indian,Mumbai,3.2
+2417,Restaurant_2417,Chinese,Chennai,4.1
+2418,Restaurant_2418,Fast Food,Kolkata,4.1
+2419,Restaurant_2419,North Indian,Pune,2.9
+2420,Restaurant_2420,Biryani,Pune,4.4
+2421,Restaurant_2421,Fast Food,Kolkata,4.8
+2422,Restaurant_2422,Cafe,Jaipur,4.9
+2423,Restaurant_2423,South Indian,Chennai,4.8
+2424,Restaurant_2424,Bakery,Ahmedabad,3.9
+2425,Restaurant_2425,South Indian,Jaipur,4.5
+2426,Restaurant_2426,South Indian,Ahmedabad,4.3
+2427,Restaurant_2427,Cafe,Pune,4.6
+2428,Restaurant_2428,Bakery,Chennai,4.3
+2429,Restaurant_2429,CHINESE,Pune,4.1
+2430,Restaurant_2430,Biryani,Mumbai,3.9
+2431,Restaurant_2431,Cafe,Delhi,3.6
+2432,Restaurant_2432,BAKERY,Bengaluru,3.1
+2433,Restaurant_2433,North Indian,Ahmedabad,4.0
+2434,Restaurant_2434,Cafe,Hyderabad,
+2435,Restaurant_2435,Fast Food,Ahmedabad,
+2436,Restaurant_2436,South Indian,Bengaluru,4.8
+2437,Restaurant_2437,Biryani,Ahmedabad,4.1
+2438,Restaurant_2438,Bakery,Bengaluru,4.7
+2439,Restaurant_2439,South Indian,Jaipur,4.2
+2440,Restaurant_2440,Chinese,Mumbai,4.4
+2441,Restaurant_2441,South Indian,Bengaluru,
+2442,Restaurant_2442,Fast Food,Delhi,2.6
+2443,Restaurant_2443,Biryani,Kolkata,3.2
+2444,Restaurant_2444,BAKERY,Mumbai,3.3
+2445,Restaurant_2445,Biryani,Delhi,2.8
+2446,Restaurant_2446,Cafe,Mumbai,3.1
+2447,Restaurant_2447,North Indian,Ahmedabad,4.2
+2448,Restaurant_2448,BIRYANI,Bengaluru,3.8
+2449,Restaurant_2449,Cafe,Pune,3.1
+2450,Restaurant_2450,South Indian,Jaipur,4.2
+2451,Restaurant_2451,Biryani,Ahmedabad,
+2452,Restaurant_2452,Fast Food,Mumbai,2.9
+2453,Restaurant_2453,Bakery,Mumbai,4.3
+2454,Restaurant_2454,CAFE,Hyderabad,3.1
+2455,Restaurant_2455,Cafe,Ahmedabad,4.3
+2456,Restaurant_2456,South Indian,Pune,2.9
+2457,Restaurant_2457,CHINESE,Hyderabad,3.0
+2458,Restaurant_2458,Chinese,Pune,2.6
+2459,Restaurant_2459,Fast Food,Mumbai,4.8
+2460,Restaurant_2460,Cafe,Hyderabad,4.5
+2461,Restaurant_2461,Chinese,Delhi,2.9
+2462,Restaurant_2462,North Indian,Bengaluru,2.7
+2463,Restaurant_2463,Chinese,Chennai,3.7
+2464,Restaurant_2464,Chinese,Delhi,4.0
+2465,Restaurant_2465,Fast Food,Pune,2.7
+2466,Restaurant_2466,Biryani,Ahmedabad,3.6
+2467,Restaurant_2467,Chinese,Jaipur,4.0
+2468,Restaurant_2468,North Indian,Jaipur,4.6
+2469,Restaurant_2469,North Indian,Delhi,4.0
+2470,Restaurant_2470,Chinese,Ahmedabad,3.8
+2471,Restaurant_2471,Cafe,Bengaluru,3.0
+2472,Restaurant_2472,Fast Food,Bengaluru,3.5
+2473,Restaurant_2473,Chinese,Mumbai,
+2474,Restaurant_2474,South Indian,Pune,3.0
+2475,Restaurant_2475,North Indian,Bengaluru,3.0
+2476,Restaurant_2476,Chinese,Jaipur,
+2477,Restaurant_2477,Biryani,Ahmedabad,3.0
+2478,Restaurant_2478,North Indian,Bengaluru,2.6
+2479,Restaurant_2479,South Indian,Chennai,4.1
+2480,Restaurant_2480,South Indian,Kolkata,4.6
+2481,Restaurant_2481,SOUTH INDIAN,Kolkata,3.2
+2482,Restaurant_2482,South Indian,Jaipur,3.5
+2483,Restaurant_2483,Fast Food,Delhi,4.1
+2484,Restaurant_2484,Cafe,Jaipur,3.0
+2485,Restaurant_2485,Cafe,Kolkata,4.7
+2486,Restaurant_2486,South Indian,Mumbai,2.7
+2487,Restaurant_2487,Biryani,Delhi,4.5
+2488,Restaurant_2488,Chinese,Kolkata,2.8
+2489,Restaurant_2489,Bakery,Hyderabad,3.7
+2490,Restaurant_2490,South Indian,Delhi,
+2491,Restaurant_2491,Fast Food,Hyderabad,3.9
+2492,Restaurant_2492,North Indian,Pune,4.0
+2493,Restaurant_2493,South Indian,Kolkata,2.8
+2494,Restaurant_2494,Biryani,Ahmedabad,3.7
+2495,Restaurant_2495,Fast Food,Pune,2.9
+2496,Restaurant_2496,Cafe,Chennai,
+2497,Restaurant_2497,Biryani,Hyderabad,3.9
+2498,Restaurant_2498,South Indian,Chennai,4.1
+2499,Restaurant_2499,Cafe,Kolkata,4.7
+2500,Restaurant_2500,South Indian,Bengaluru,2.7
